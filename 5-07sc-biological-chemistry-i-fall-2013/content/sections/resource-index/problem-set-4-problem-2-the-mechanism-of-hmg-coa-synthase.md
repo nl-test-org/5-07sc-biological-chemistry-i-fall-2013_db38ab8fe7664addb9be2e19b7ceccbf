@@ -1,0 +1,1172 @@
+---
+about_this_resource_text: ''
+course_id: 5-07sc-biological-chemistry-i-fall-2013
+embedded_media:
+- id: Video-YouTube-Stream
+  media_location: XmS9DYHQHi0
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Video-YouTube-Stream
+  type: Video
+  uid: 48ff4b1f3aa2b80bfd3f961edbd1b00f
+- id: Thumbnail-YouTube-JPG
+  media_location: https://img.youtube.com/vi/XmS9DYHQHi0/default.jpg
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Thumbnail-YouTube-JPG
+  type: Thumbnail
+  uid: 9ba8351cedc384f5e4ea51e0e247bdd2
+- id: 3Play-3PlayYouTubeid-MP4
+  media_location: XmS9DYHQHi0
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: 3Play-3Play YouTube id
+  type: 3Play
+  uid: 163c0ff69019344d21362814f81fa83d
+- id: XmS9DYHQHi0.srt
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  technical_location: https://ocw.mit.edu/courses/chemistry/5-07sc-biological-chemistry-i-fall-2013/resource-index/problem-set-4-problem-2-the-mechanism-of-hmg-coa-synthase/XmS9DYHQHi0.srt
+  title: 3play caption file
+  type: null
+  uid: 3a606cd970b8e099066dea74986e0cf0
+- id: XmS9DYHQHi0.pdf
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  technical_location: https://ocw.mit.edu/courses/chemistry/5-07sc-biological-chemistry-i-fall-2013/resource-index/problem-set-4-problem-2-the-mechanism-of-hmg-coa-synthase/XmS9DYHQHi0.pdf
+  title: 3play pdf file
+  type: null
+  uid: 23a256f94e589dd5fe6df9c1e3574fe3
+- id: Caption-3Play YouTube id-SRT
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Caption-3Play YouTube id-SRT-English - US
+  type: Caption
+  uid: 8d5ef7ac37f01252c0874837a2314e72
+- id: Transcript-3Play YouTube id-PDF
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Transcript-3Play YouTube id-PDF-English - US
+  type: Transcript
+  uid: 60034ea14b05b36d5afb3a4aa0081637
+- id: Video-iTunesU-MP4
+  media_location: https://itunes.apple.com/us/itunes-u/id1229165237
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Video-iTunes U-MP4
+  type: Video
+  uid: 05feac4e89b7632c8e4db79cf4c52274
+- id: Video-InternetArchive-MP4
+  media_location: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset4_Q2_300k.mp4
+  parent_uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+  title: Video-Internet Archive-MP4
+  type: Video
+  uid: e6d271908447c9733dd5d314ab850314
+inline_embed_id: 70144685problemset4problem2themechanismofhmgcoasynthase17648064
+layout: video
+order_index: null
+parent_uid: d07abae0c8ddbcecb1b6138f19c824ba
+related_resources_text: ''
+short_url: problem-set-4-problem-2-the-mechanism-of-hmg-coa-synthase
+technical_location: https://ocw.mit.edu/courses/chemistry/5-07sc-biological-chemistry-i-fall-2013/resource-index/problem-set-4-problem-2-the-mechanism-of-hmg-coa-synthase
+template_type: popup
+title: 'Problem Set 4, Problem 2: The Mechanism of HMG-CoA Synthase'
+transcript: <p><span m="440">The</span> <span m="530">following</span> <span m="950">content</span>
+  <span m="1520">is</span> <span m="1670">provided</span> <span m="2120">under</span>
+  <span m="2360">a</span> <span m="2420">Creative</span> <span m="2840">Commons</span>
+  <span m="3230">license.</span> <span m="4380">Your</span> <span m="4520">support</span>
+  <span m="5030">will</span> <span m="5210">help</span> <span m="5450">MIT</span>
+  <span m="5900">OpenCourseWare</span> <span m="6680">continue</span> <span m="7190">to</span>
+  <span m="7310">offer</span> <span m="7730">high-quality,</span> <span m="8450">educational</span>
+  <span m="9080">resources</span> <span m="9680">for</span> <span m="9860">free.</span>
+  <span m="11070">To</span> <span m="11170">make</span> <span m="11270">a</span> <span
+  m="11330">donation</span> <span m="12080">or</span> <span m="12260">view</span>
+  <span m="12740">additional</span> <span m="13130">materials</span> <span m="13670">from</span>
+  <span m="13850">hundreds</span> <span m="14270">of</span> <span m="14360">MIT</span>
+  <span m="14810">courses,</span> <span m="15900">visit</span> <span m="16100">MIT</span>
+  <span m="16550">OpenCourseWare</span> <span m="17630">at</span> <span m="17750">ocw.mit.edu.</span></p><p><span
+  m="31706">BOGDAN FEDELES:</span> <span m="32200">Hello,</span> <span m="32619">and</span>
+  <span m="32770">welcome</span> <span m="33130">to</span> <span m="33250">5.07</span>
+  <span m="33870">Bio</span> <span m="34050">Chemistry</span> <span m="34700">Online.</span>
+  <span m="36030">I'm</span> <span m="36160">Dr.</span> <span m="36430">Bogdan</span>
+  <span m="36770">Fedeles.</span> <span m="37360">Let's</span> <span m="37690">metabolize</span>
+  <span m="38230">some</span> <span m="38400">problems.</span></p><p><span m="42300">Today</span>
+  <span m="43040">we're</span> <span m="43160">going</span> <span m="43280">to</span>
+  <span m="43340">be</span> <span m="43850">talking</span> <span m="44420">about</span>
+  <span m="44720">Problem</span> <span m="45110">2</span> <span m="45470">of</span>
+  <span m="45570">Problem</span> <span m="45880">Set</span> <span m="46080">4.</span>
+  <span m="47300">Here</span> <span m="47580">we're</span> <span m="47730">going</span>
+  <span m="47870">to</span> <span m="47930">be</span> <span m="48020">discussing</span>
+  <span m="48530">in</span> <span m="48650">detail</span> <span m="49400">the</span>
+  <span m="49490">mechanism</span> <span m="50480">of</span> <span m="51480">HMG-CoA</span>
+  <span m="52070">synthase,</span> <span m="52410">a</span> <span m="53240">key</span>
+  <span m="53570">enzyme</span> <span m="54080">in</span> <span m="54200">central</span>
+  <span m="54500">metabolism</span> <span m="55760">responsible</span> <span m="56360">for</span>
+  <span m="56510">making</span> <span m="56840">the</span> <span m="56960">five</span>
+  <span m="57290">carbon</span> <span m="57710">building</span> <span m="58100">blocks</span>
+  <span m="59060">from</span> <span m="59240">which</span> <span m="59570">all</span>
+  <span m="59840">sterols,</span> <span m="60650">such</span> <span m="60860">as</span>
+  <span m="60950">cholesterol</span> <span m="61640">and</span> <span m="61760">steroid</span>
+  <span m="62090">hormones</span> <span m="63080">are</span> <span m="63230">made.</span></p><p><span
+  m="64580">HMG-CoA</span> <span m="65180">synthase</span> <span m="66050">catalyzes</span>
+  <span m="66560">the</span> <span m="66650">following</span> <span m="67040">reaction.</span>
+  <span m="68240">It</span> <span m="68330">takes</span> <span m="68990">acetyl-CoA,</span>
+  <span m="70460">which</span> <span m="71630">we're</span> <span m="71750">going</span>
+  <span m="71870">to</span> <span m="71930">encounter</span> <span m="72560">a</span>
+  <span m="72620">lot</span> <span m="72950">in</span> <span m="73070">the</span>
+  <span m="73160">central</span> <span m="73430">metabolism,</span> <span m="74450">and</span>
+  <span m="74540">combines</span> <span m="74990">it</span> <span m="75110">with</span>
+  <span m="75830">acetoacetyl-CoA,</span> <span m="77450">another</span> <span m="77870">thioester.</span>
+  <span m="79420">In</span> <span m="79750">this</span> <span m="79910">process,</span>
+  <span m="80270">the</span> <span m="81940">one</span> <span m="82270">molecule</span>
+  <span m="82660">of</span> <span m="82780">CoA</span> <span m="83290">is</span> <span
+  m="83470">lost,</span> <span m="84160">and</span> <span m="84460">we</span> <span
+  m="84580">get</span> <span m="84730">the</span> <span m="84820">product</span> <span
+  m="85720">hydroxymethylglutaryl</span> <span m="85945">CoA</span> <span m="87430">or</span>
+  <span m="88090">HMG-CoA,</span> <span m="89190">as</span> <span m="89350">you</span>
+  <span m="89440">notice</span> <span m="89770">the</span> <span m="89830">initials</span>
+  <span m="90700">H,</span> <span m="90970">M,</span> <span m="91410">and</span> <span
+  m="91850">G</span> <span m="92290">are</span> <span m="92410">part</span> <span
+  m="92650">of</span> <span m="92720">this</span> <span m="92920">name.</span> <span
+  m="93970">To</span> <span m="94120">help</span> <span m="94360">us</span> <span
+  m="94690">understand</span> <span m="95110">the</span> <span m="95230">mechanism,</span>
+  <span m="95850">a</span> <span m="95930">crystal</span> <span m="96310">structure</span>
+  <span m="97030">of</span> <span m="98230">this</span> <span m="98590">HMG-CoA</span>
+  <span m="99310">synthase</span> <span m="100450">is</span> <span m="100630">provided</span>
+  <span m="101470">in</span> <span m="101590">this</span> <span m="101740">problem,</span>
+  <span m="102940">and</span> <span m="103060">it's</span> <span m="103170">shown</span>
+  <span m="103420">here.</span></p><p><span m="110520">Question</span> <span m="110820">1</span>
+  <span m="111120">of</span> <span m="111210">this</span> <span m="111360">problem</span>
+  <span m="112620">is</span> <span m="112800">asking</span> <span m="113130">us</span>
+  <span m="113370">to</span> <span m="113610">provide</span> <span m="114120">a</span>
+  <span m="114300">detailed</span> <span m="115230">curved</span> <span m="115540">arrow</span>
+  <span m="115830">mechanism</span> <span m="116910">of</span> <span m="117060">the</span>
+  <span m="117360">reaction</span> <span m="117810">catalyzed</span> <span m="118260">by</span>
+  <span m="118380">the</span> <span m="118530">HMG-CoA</span> <span m="119250">synthase.</span>
+  <span m="120510">And</span> <span m="120630">for</span> <span m="120810">that</span>
+  <span m="121170">we're</span> <span m="121260">going</span> <span m="121410">to</span>
+  <span m="121500">use</span> <span m="122580">the</span> <span m="122700">information</span>
+  <span m="123300">provided</span> <span m="123750">in</span> <span m="123870">the</span>
+  <span m="123960">crystal</span> <span m="124290">structure.</span> <span m="125560">And</span>
+  <span m="125670">we</span> <span m="125790">are</span> <span m="125830">also</span>
+  <span m="126060">given</span> <span m="126300">an</span> <span m="126420">additional</span>
+  <span m="126900">hint</span> <span m="127950">and</span> <span m="128130">that</span>
+  <span m="128310">is</span> <span m="129000">the</span> <span m="129120">acetyl</span>
+  <span m="129539">CoA</span> <span m="130289">substrate</span> <span m="130889">provides</span>
+  <span m="131490">the</span> <span m="132030">CH2CO2</span> <span m="133590">CO2</span>
+  <span m="134490">minus</span> <span m="135150">moiety</span> <span m="135870">in</span>
+  <span m="135990">the</span> <span m="136350">HMG-CoA</span> <span m="137820">product.</span>
+  <span m="139350">Let's</span> <span m="139500">take</span> <span m="139680">a</span>
+  <span m="139710">look.</span></p><p><span m="140730">So</span> <span m="140880">the</span>
+  <span m="141000">hint</span> <span m="141780">is</span> <span m="141900">telling</span>
+  <span m="142200">us</span> <span m="142380">that</span> <span m="142590">these</span>
+  <span m="142860">two</span> <span m="143010">carbons,</span> <span m="144180">which</span>
+  <span m="144330">I'm</span> <span m="144450">going</span> <span m="144570">to</span>
+  <span m="144660">label</span> <span m="144930">in</span> <span m="145050">blue</span>
+  <span m="145590">from</span> <span m="145800">acetyl-CoA,</span> <span m="147180">are,</span>
+  <span m="147510">in</span> <span m="147660">fact,</span> <span m="148590">these</span>
+  <span m="148860">two</span> <span m="149040">carbons,</span> <span m="149610">CH2</span>
+  <span m="150570">COO</span> <span m="150990">minus</span> <span m="152000">in</span>
+  <span m="152370">hydroxymethylglutaryl</span> <span m="152580">CoA.</span> <span
+  m="155070">That</span> <span m="155190">means</span> <span m="155490">that</span>
+  <span m="155730">the</span> <span m="155940">other</span> <span m="156180">four</span>
+  <span m="156450">carbons</span> <span m="157500">in</span> <span m="157620">the</span>
+  <span m="157740">product</span> <span m="158220">must</span> <span m="158460">be</span>
+  <span m="158910">the</span> <span m="159000">carbons</span> <span m="159420">from</span>
+  <span m="159630">the</span> <span m="159870">acetoacetyl-CoA.</span> <span m="163710">Let's</span>
+  <span m="163950">label</span> <span m="164280">these</span> <span m="164610">red.</span></p><p><span
+  m="169390">So</span> <span m="169640">now</span> <span m="170090">since</span> <span
+  m="170330">we</span> <span m="170480">have</span> <span m="170720">a</span> <span
+  m="171881">thioester</span> <span m="172370">functionality</span> <span m="173060">in</span>
+  <span m="173220">both</span> <span m="173480">cases,</span> <span m="174470">these</span>
+  <span m="174740">are</span> <span m="174800">probably</span> <span m="175970">the</span>
+  <span m="176060">same,</span> <span m="176990">so</span> <span m="177890">the</span>
+  <span m="178010">carbons</span> <span m="179630">from</span> <span m="179980">a</span>
+  <span m="180060">acetoacetyl-CoA</span> <span m="181250">are</span> <span m="181610">as</span>
+  <span m="181730">follows.</span> <span m="182960">So</span> <span m="183050">notice</span>
+  <span m="184280">the</span> <span m="184410">HMG-CoA</span> <span m="185330">synthase,</span>
+  <span m="186320">it</span> <span m="186470">accomplishes</span> <span m="188510">the</span>
+  <span m="188630">formation</span> <span m="189320">of</span> <span m="189590">a</span>
+  <span m="189710">carbon-carbon</span> <span m="190580">bond,</span> <span m="191330">and</span>
+  <span m="191450">that</span> <span m="191630">is</span> <span m="192290">this</span>
+  <span m="192500">bond</span> <span m="192920">right</span> <span m="193160">here.</span>
+  <span m="194600">It's</span> <span m="194780">between</span> <span m="195650">the</span>
+  <span m="195770">CH3</span> <span m="197630">carbon</span> <span m="198020">acetyl-CoA</span>
+  <span m="199220">and</span> <span m="199970">the</span> <span m="200460">carbonyl</span>
+  <span m="201830">carbon</span> <span m="202220">of</span> <span m="202430">acetoacetyl-CoA.</span>
+  <span m="204290">And</span> <span m="204470">in</span> <span m="204560">the</span>
+  <span m="204650">process,</span> <span m="205440">this</span> <span m="205680">carbonyl</span>
+  <span m="206300">will</span> <span m="206420">become</span> <span m="206650">a</span>
+  <span m="206880">hydroxyl</span> <span m="207470">group.</span></p><p><span m="210090">Now,</span>
+  <span m="210230">let's</span> <span m="210380">take</span> <span m="210560">a</span>
+  <span m="210620">look</span> <span m="210860">at</span> <span m="210950">the</span>
+  <span m="211040">crystal</span> <span m="211370">structure</span> <span m="211970">and</span>
+  <span m="212060">see</span> <span m="212270">what</span> <span m="212450">information</span>
+  <span m="213020">we</span> <span m="213140">can</span> <span m="213320">gather</span>
+  <span m="213710">there.</span> <span m="214850">Now</span> <span m="215240">this</span>
+  <span m="215390">is</span> <span m="215510">a</span> <span m="215570">picture</span>
+  <span m="215960">of</span> <span m="216080">the</span> <span m="216200">active</span>
+  <span m="216530">site</span> <span m="216830">of</span> <span m="216920">the</span>
+  <span m="217040">HMG-CoA</span> <span m="217980">synthase.</span> <span m="218890">We</span>
+  <span m="219040">notice</span> <span m="220790">the</span> <span m="221290">acetyl-CoA</span>
+  <span m="222930">moiety</span> <span m="223820">is</span> <span m="224000">actually</span>
+  <span m="224630">now</span> <span m="224960">bound</span> <span m="225680">to</span>
+  <span m="225890">this</span> <span m="226670">C111.</span> <span m="227700">As</span>
+  <span m="227810">you</span> <span m="227900">know</span> <span m="228080">C</span>
+  <span m="228540">is</span> <span m="228710">a</span> <span m="228770">cysteine--</span>
+  <span m="229790">so</span> <span m="230150">it's</span> <span m="230300">actually</span>
+  <span m="230510">covalently</span> <span m="231170">bound</span> <span m="231470">to</span>
+  <span m="231590">a</span> <span m="232060">cysteine--</span> <span m="232140">in</span>
+  <span m="232220">the</span> <span m="232340">active</span> <span m="232610">site.</span></p><p><span
+  m="234560">Now,</span> <span m="234800">notice</span> <span m="235250">this</span>
+  <span m="235460">is</span> <span m="235550">the</span> <span m="235700">other</span>
+  <span m="236270">substrate,</span> <span m="237080">which</span> <span m="237260">is</span>
+  <span m="237330">the</span> <span m="237540">acetoacetyl-CoA</span> <span m="239300">and</span>
+  <span m="240410">bound</span> <span m="240770">in</span> <span m="240920">the</span>
+  <span m="240980">active</span> <span m="241300">site.</span> <span m="241850">So</span>
+  <span m="242240">as</span> <span m="242360">we've</span> <span m="242470">discussed</span>
+  <span m="242870">before,</span> <span m="243290">we're</span> <span m="243410">going</span>
+  <span m="243530">to</span> <span m="243620">make</span> <span m="243860">this</span>
+  <span m="244070">carbon-carbon</span> <span m="244730">bond,</span> <span m="245630">and</span>
+  <span m="245750">that's</span> <span m="245960">going</span> <span m="246110">to</span>
+  <span m="246200">happen</span> <span m="246920">between</span> <span m="247430">this</span>
+  <span m="247640">carbon</span> <span m="248030">here</span> <span m="248880">and</span>
+  <span m="249170">this</span> <span m="249410">carbon</span> <span m="249860">here.</span>
+  <span m="250700">So</span> <span m="250850">this</span> <span m="251060">bond</span>
+  <span m="251750">needs</span> <span m="251870">to</span> <span m="251960">be</span>
+  <span m="252080">formed.</span></p><p><span m="254780">However,</span> <span m="255190">let's</span>
+  <span m="255340">take</span> <span m="255490">it</span> <span m="255550">one</span>
+  <span m="255730">step</span> <span m="256000">at</span> <span m="256089">a</span>
+  <span m="256149">time.</span> <span m="258490">The</span> <span m="258579">reaction</span>
+  <span m="259420">will</span> <span m="259600">start</span> <span m="260529">by</span>
+  <span m="260829">forming</span> <span m="261399">this</span> <span m="261800">thioester</span>
+  <span m="262650">between</span> <span m="263380">the</span> <span m="263500">acetoacetyl-CoA</span>
+  <span m="264670">carbons</span> <span m="265480">and</span> <span m="265730">the</span>
+  <span m="266055">cysteine</span> <span m="266770">in</span> <span m="266860">the</span>
+  <span m="266980">active</span> <span m="267310">site</span> <span m="268510">of</span>
+  <span m="268600">the</span> <span m="268750">enzyme.</span> <span m="269800">In</span>
+  <span m="269920">many</span> <span m="270160">reactions</span> <span m="270670">that</span>
+  <span m="270790">use</span> <span m="271040">a</span> <span m="271375">cysteine</span>
+  <span m="271710">in</span> <span m="271840">the</span> <span m="271930">active</span>
+  <span m="272230">site,</span> <span m="272980">which</span> <span m="273280">is</span>
+  <span m="273430">used</span> <span m="273610">to</span> <span m="273700">form</span>
+  <span m="274060">a</span> <span m="274120">covalent</span> <span m="274660">bond</span>
+  <span m="274990">to</span> <span m="275110">the</span> <span m="275200">substrate,</span>
+  <span m="276250">we</span> <span m="276370">first</span> <span m="276640">need</span>
+  <span m="276820">a</span> <span m="276910">base</span> <span m="277540">to</span>
+  <span m="277760">deprotonate</span> <span m="278390">the</span> <span m="278490">cysteine</span>
+  <span m="279760">and</span> <span m="280180">make</span> <span m="280350">it</span>
+  <span m="280480">a</span> <span m="280900">really</span> <span m="281170">good</span>
+  <span m="281380">nucleophile,</span> <span m="282460">which</span> <span m="282640">will</span>
+  <span m="282730">subsequently</span> <span m="283810">attack</span> <span m="284170">the</span>
+  <span m="284260">substrate</span> <span m="284680">and</span> <span m="284770">form</span>
+  <span m="285250">a</span> <span m="285340">covalent</span> <span m="285700">bond.</span></p><p><span
+  m="286800">Now,</span> <span m="286950">in</span> <span m="287050">a</span> <span
+  m="287130">lot</span> <span m="287290">of</span> <span m="287380">these</span> <span
+  m="287530">cases,</span> <span m="288220">the</span> <span m="288310">base</span>
+  <span m="288640">is</span> <span m="288820">a</span> <span m="288880">histidine.</span>
+  <span m="290920">Let's</span> <span m="291070">take</span> <span m="291220">a</span>
+  <span m="291310">look</span> <span m="291520">if we see a</span> <span m="291850">histidine</span>
+  <span m="292840">in</span> <span m="292960">our</span> <span m="293080">structure.</span>
+  <span m="294960">There</span> <span m="295140">is</span> <span m="295290">a</span>
+  <span m="296010">histidine</span> <span m="296490">in</span> <span m="296580">the</span>
+  <span m="296670">structure,</span> <span m="297540">H233.</span> <span m="299760">But</span>
+  <span m="300180">if</span> <span m="300300">you</span> <span m="300360">look</span>
+  <span m="300570">at</span> <span m="300640">this</span> <span m="300790">histidine,</span>
+  <span m="301350">it's</span> <span m="301530">quite</span> <span m="301860">far</span>
+  <span m="302280">from</span> <span m="302640">our</span> <span m="302940">cysteine</span>
+  <span m="303480">here.</span> <span m="304530">Well,</span> <span m="305280">obviously,</span>
+  <span m="305610">because</span> <span m="305880">this</span> <span m="306390">is</span>
+  <span m="306480">a</span> <span m="306540">projection,</span> <span m="308010">this</span>
+  <span m="308160">is</span> <span m="308250">a</span> <span m="308340">two-dimensional</span>
+  <span m="308940">structure</span> <span m="309420">so</span> <span m="309550">that</span>
+  <span m="309710">we</span> <span m="309850">only</span> <span m="310020">see</span>
+  <span m="310200">here</span> <span m="310350">a</span> <span m="310380">projection</span>
+  <span m="310830">of</span> <span m="310890">a</span> <span m="310980">three-dimensional</span>
+  <span m="311490">structure,</span> <span m="312060">it's</span> <span m="312180">very</span>
+  <span m="312360">hard</span> <span m="312600">for</span> <span m="312750">us</span>
+  <span m="312870">to</span> <span m="312990">tell</span> <span m="313470">if</span>
+  <span m="313560">this</span> <span m="313770">histidine</span> <span m="314240">is,</span>
+  <span m="314460">in</span> <span m="314550">fact,</span> <span m="314790">close</span>
+  <span m="315090">enough</span> <span m="315750">to</span> <span m="317450">deprotonate</span>
+  <span m="318260">this</span> <span m="318860">cysteine.</span></p><p><span m="320340">So</span>
+  <span m="321140">even</span> <span m="321500">though</span> <span m="321770">we</span>
+  <span m="321920">have</span> <span m="322130">this</span> <span m="322280">crystal</span>
+  <span m="322550">structure,</span> <span m="325080">from</span> <span m="325730">this</span>
+  <span m="325910">one</span> <span m="326210">picture,</span> <span m="326570">we</span>
+  <span m="326660">do</span> <span m="326770">not</span> <span m="326930">have</span>
+  <span m="327200">enough</span> <span m="327500">information</span> <span m="328640">to</span>
+  <span m="328790">figure</span> <span m="329090">out,</span> <span m="329240">well,</span>
+  <span m="329510">what</span> <span m="329900">is</span> <span m="330170">the</span>
+  <span m="330380">base</span> <span m="331100">that</span> <span m="331190">will</span>
+  <span m="331310">deprotonate</span> <span m="331590">cysteine</span> <span m="332830">before</span>
+  <span m="333200">it</span> <span m="333350">reacts</span> <span m="333800">with</span>
+  <span m="333890">acetyl-CoA.</span></p><p><span m="335180">Remember</span> <span
+  m="335570">this</span> <span m="335750">is</span> <span m="335870">often</span>
+  <span m="336200">the</span> <span m="336320">case</span> <span m="336680">with</span>
+  <span m="336860">crystal</span> <span m="337490">structures</span> <span m="338240">that</span>
+  <span m="338690">because</span> <span m="338990">of</span> <span m="339080">the</span>
+  <span m="339620">resolution</span> <span m="340340">which</span> <span m="340580">we</span>
+  <span m="340670">can</span> <span m="340880">collect</span> <span m="341240">them,</span>
+  <span m="341630">we</span> <span m="341750">cannot</span> <span m="342080">see</span>
+  <span m="342350">the</span> <span m="342440">protons.</span> <span m="343660">And</span>
+  <span m="343810">if</span> <span m="343940">we</span> <span m="344000">cannot</span>
+  <span m="344240">see</span> <span m="344390">the</span> <span m="344480">protons,</span>
+  <span m="344910">it's</span> <span m="344930">very</span> <span m="345110">hard</span>
+  <span m="345290">to</span> <span m="345410">tell</span> <span m="345980">which</span>
+  <span m="346460">amino</span> <span m="346760">acid</span> <span m="347000">residues</span>
+  <span m="347690">are</span> <span m="347900">protonated</span> <span m="348800">and</span>
+  <span m="348920">can</span> <span m="349100">serve</span> <span m="349400">as</span>
+  <span m="349580">a</span> <span m="349760">general</span> <span m="350120">acid</span>
+  <span m="350600">or</span> <span m="350780">general</span> <span m="351110">bases.</span></p><p><span
+  m="352810">A</span> <span m="352870">lot</span> <span m="353110">of</span> <span
+  m="353200">the</span> <span m="353950">researcher's</span> <span m="354610">intuition</span>
+  <span m="355360">comes</span> <span m="355690">into</span> <span m="356500">play</span>
+  <span m="357010">to</span> <span m="357160">draw</span> <span m="357520">these</span>
+  <span m="357730">kind</span> <span m="357910">of</span> <span m="357970">structures.</span>
+  <span m="359140">And</span> <span m="359590">it's</span> <span m="359740">only</span>
+  <span m="359980">with</span> <span m="360490">collecting</span> <span m="361000">many</span>
+  <span m="361420">different</span> <span m="362110">kinds</span> <span m="362320">of</span>
+  <span m="362410">experimental</span> <span m="362920">evidence</span> <span m="363700">that</span>
+  <span m="363790">we</span> <span m="363910">can</span> <span m="364450">put</span>
+  <span m="364600">together</span> <span m="365410">a</span> <span m="365560">more</span>
+  <span m="366340">definitive</span> <span m="366850">mechanism.</span> <span m="369250">Therefore,</span>
+  <span m="370120">we</span> <span m="370540">might</span> <span m="370750">not</span>
+  <span m="370990">know</span> <span m="371200">for</span> <span m="371380">sure</span>
+  <span m="371770">from</span> <span m="371980">this</span> <span m="372190">one</span>
+  <span m="372430">picture,</span> <span m="373240">which</span> <span m="373600">is</span>
+  <span m="373870">the</span> <span m="374620">general</span> <span m="375040">base</span>
+  <span m="375670">that</span> <span m="375910">deprotonates</span> <span m="377020">the</span>
+  <span m="377110">cysteine</span> <span m="378090">at</span> <span m="378250">111.</span>
+  <span m="379510">So</span> <span m="379930">we're</span> <span m="380050">not</span>
+  <span m="380170">going</span> <span m="380320">to</span> <span m="380410">assign</span>
+  <span m="380770">it</span> <span m="381250">for</span> <span m="381430">now.</span></p><p><span
+  m="382840">Let's</span> <span m="383050">try</span> <span m="383230">to</span> <span
+  m="383380">write</span> <span m="383590">the</span> <span m="383680">mechanism</span>
+  <span m="384280">for</span> <span m="384430">that</span> <span m="384580">part.</span>
+  <span m="385900">Here</span> <span m="386110">is</span> <span m="386290">the</span>
+  <span m="386770">acetyl-CoA</span> <span m="388030">substrate,</span> <span m="391340">and</span>
+  <span m="391700">here</span> <span m="392030">is</span> <span m="392330">the</span>
+  <span m="392480">active</span> <span m="392880">site</span> <span m="393560">cysteine</span>
+  <span m="394560">111</span> <span m="395565">with</span> <span m="396030">its</span>
+  <span m="396770">thiol</span> <span m="397160">group.</span> <span m="398630">And</span>
+  <span m="399740">again,</span> <span m="400040">we're</span> <span m="400130">not</span>
+  <span m="400280">going</span> <span m="400400">to</span> <span m="400490">assign</span>
+  <span m="400850">it,</span> <span m="401270">but</span> <span m="401540">there</span>
+  <span m="401720">will</span> <span m="401960">be</span> <span m="402170">a</span>
+  <span m="402230">base</span> <span m="403320">in</span> <span m="403430">the</span>
+  <span m="403550">active</span> <span m="403880">site</span> <span m="404180">of</span>
+  <span m="404300">the</span> <span m="404530">enzyme</span> <span m="406650">that</span>
+  <span m="407190">will</span> <span m="407370">need</span> <span m="407550">to</span>
+  <span m="407820">deprotonate</span> <span m="408330">this</span> <span m="408500">cysteine</span>
+  <span m="409590">before</span> <span m="409890">it</span> <span m="409950">can</span>
+  <span m="410160">react.</span></p><p><span m="411966">Therefore,</span> <span m="413070">the</span>
+  <span m="413220">reaction</span> <span m="414240">first</span> <span m="414480">involves</span>
+  <span m="415350">activation</span> <span m="415950">of</span> <span m="416040">the</span>
+  <span m="416160">cysteine,</span> <span m="416420">is</span> <span m="416670">deprotonated,</span>
+  <span m="418200">and</span> <span m="418320">then</span> <span m="418720">cysteine</span>
+  <span m="419250">can</span> <span m="420570">attack</span> <span m="420990">the</span>
+  <span m="421110">thioester</span> <span m="422640">and</span> <span m="422730">form</span>
+  <span m="423090">a</span> <span m="423170">tetrahedral</span> <span m="424020">intermediate.</span>
+  <span m="427830">As</span> <span m="427980">we've</span> <span m="428100">seen</span>
+  <span m="428310">it</span> <span m="428370">before,</span> <span m="429480">for</span>
+  <span m="429750">a</span> <span m="429810">lot</span> <span m="430050">of</span>
+  <span m="430140">these</span> <span m="430410">reactions</span> <span m="430890">involving</span>
+  <span m="431310">thioesters.</span> <span m="432170">In</span> <span m="432300">the</span>
+  <span m="432390">first</span> <span m="432630">step,</span> <span m="433440">we</span>
+  <span m="433590">will</span> <span m="433770">form</span> <span m="435030">four</span>
+  <span m="435360">bonds</span> <span m="435780">to</span> <span m="435900">this</span>
+  <span m="436440">carbonyl</span> <span m="437760">carbon,</span> <span m="443450">and</span>
+  <span m="443720">we</span> <span m="443900">have</span> <span m="444050">formed</span>
+  <span m="444470">a</span> <span m="444530">new</span> <span m="444710">bond</span>
+  <span m="444980">between</span> <span m="445590">the</span> <span m="446600">thiol</span>
+  <span m="447500">of</span> <span m="447650">the</span> <span m="447770">cysteine</span>
+  <span m="448220">111</span> <span m="449060">and</span> <span m="450080">the</span>
+  <span m="450260">starting</span> <span m="450650">material,</span> <span m="451100">acetyl-CoA.</span></p><p><span
+  m="452750">Of</span> <span m="452810">course,</span> <span m="453230">there</span>
+  <span m="453350">is</span> <span m="453470">a</span> <span m="453530">negative</span>
+  <span m="453920">charge</span> <span m="454340">here.</span> <span m="456070">And</span>
+  <span m="457210">our</span> <span m="457510">base</span> <span m="458020">in</span>
+  <span m="458110">the</span> <span m="458170">active</span> <span m="458410">site</span>
+  <span m="458650">of</span> <span m="458740">the</span> <span m="458880">enzyme</span>
+  <span m="459310">will</span> <span m="459520">now</span> <span m="459730">be</span>
+  <span m="460000">protonated.</span> <span m="464160">Now</span> <span m="464520">that</span>
+  <span m="464810">the</span> <span m="465100">tetrahedral</span> <span m="465395">intermediate</span>
+  <span m="465690">is</span> <span m="465780">going</span> <span m="465900">to</span>
+  <span m="465990">fall</span> <span m="467070">apart</span> <span m="469010">by</span>
+  <span m="469430">kicking</span> <span m="469820">off</span> <span m="471390">the</span>
+  <span m="472500">CoA</span> <span m="473070">moiety.</span> <span m="473820">Of</span>
+  <span m="473910">course,</span> <span m="474180">this</span> <span m="474420">will</span>
+  <span m="474540">get</span> <span m="474720">protonated</span> <span m="475650">presumably</span>
+  <span m="476880">by</span> <span m="477090">the</span> <span m="477210">same</span>
+  <span m="477480">base.</span> <span m="478840">Now</span> <span m="478950">it's</span>
+  <span m="479100">a</span> <span m="479190">general</span> <span m="479610">acid</span>
+  <span m="480240">that</span> <span m="480330">will</span> <span m="480480">protonate</span>
+  <span m="480910">a</span> <span m="481140">CoA.</span></p><p><span m="483420">So</span>
+  <span m="483570">we</span> <span m="483750">obtain</span> <span m="486150">the</span>
+  <span m="486270">thioester</span> <span m="486860">with</span> <span m="487040">the</span>
+  <span m="487160">cysteine</span> <span m="487710">in</span> <span m="487830">the</span>
+  <span m="487920">active</span> <span m="488210">site</span> <span m="489300">and</span>
+  <span m="490350">one</span> <span m="490560">molecule</span> <span m="490980">of</span>
+  <span m="491070">CoA</span> <span m="491900">is</span> <span m="492030">going</span>
+  <span m="492210">to</span> <span m="492300">be</span> <span m="493470">leaving.</span>
+  <span m="495980">And</span> <span m="496130">here</span> <span m="496340">is</span>
+  <span m="496490">our</span> <span m="496640">base.</span></p><p><span m="498710">Notice</span>
+  <span m="499040">the</span> <span m="499130">tetrahedral</span> <span m="499670">intermediate</span>
+  <span m="500420">that</span> <span m="500630">we're</span> <span m="500780">forming</span>
+  <span m="501260">here.</span> <span m="502160">We</span> <span m="502430">have</span>
+  <span m="502610">an</span> <span m="502730">oxygen</span> <span m="503360">that</span>
+  <span m="503480">develops</span> <span m="503870">a</span> <span m="503930">negative</span>
+  <span m="504260">charge.</span> <span m="505350">And</span> <span m="505450">this</span>
+  <span m="505550">is</span> <span m="505670">very</span> <span m="505910">similar</span>
+  <span m="506360">to</span> <span m="506480">the</span> <span m="506570">kinds</span>
+  <span m="506810">of</span> <span m="506900">intermediate</span> <span m="507440">you've</span>
+  <span m="507590">seen</span> <span m="508850">in</span> <span m="509090">the</span>
+  <span m="509300">serine</span> <span m="509840">protease</span> <span m="510440">mechanism.</span>
+  <span m="511730">Now</span> <span m="511910">in</span> <span m="512030">that</span>
+  <span m="512240">case,</span> <span m="512990">such</span> <span m="513230">an</span>
+  <span m="513289">intermediate</span> <span m="513830">was</span> <span m="513980">stabilized</span>
+  <span m="515150">with</span> <span m="515299">hydrogen</span> <span m="515780">bonds</span>
+  <span m="516200">from</span> <span m="516440">the</span> <span m="516559">backbone</span>
+  <span m="517039">of</span> <span m="517130">the</span> <span m="517250">protein</span>
+  <span m="518270">in</span> <span m="518480">a</span> <span m="518539">structure</span>
+  <span m="518990">that</span> <span m="519110">was</span> <span m="519260">called</span>
+  <span m="519539">an</span> <span m="519830">oxyanion</span> <span m="520590">hole.</span></p><p><span
+  m="522110">Now</span> <span m="522260">let's</span> <span m="522500">take</span>
+  <span m="522650">a</span> <span m="522710">look</span> <span m="522890">at</span>
+  <span m="522950">the</span> <span m="523039">crystal</span> <span m="523340">structure</span>
+  <span m="523730">of</span> <span m="523970">HMG-CoA</span> <span m="525260">to</span>
+  <span m="525380">see</span> <span m="525650">how</span> <span m="526385">a</span>
+  <span m="526640">tetrahedral</span> <span m="527200">intermediate</span> <span m="527810">might</span>
+  <span m="528050">be</span> <span m="528140">stabilized.</span> <span m="529700">Here</span>
+  <span m="529940">is</span> <span m="530060">the</span> <span m="530310">acetyl</span>
+  <span m="531740">of</span> <span m="532250">the</span> <span m="532430">acetoacetyl-CoA</span>
+  <span m="534410">substrate.</span> <span m="535330">The</span> <span m="535450">acetyl</span>
+  <span m="535660">now</span> <span m="536000">is</span> <span m="536150">bound</span>
+  <span m="536450">to</span> <span m="536570">the</span> <span m="536720">cysteine</span>
+  <span m="538070">111</span> <span m="538820">here</span> <span m="539060">in</span>
+  <span m="539150">the</span> <span m="539240">active</span> <span m="539510">site.</span></p><p><span
+  m="540590">Now,</span> <span m="541040">let's</span> <span m="541190">take</span>
+  <span m="541340">a</span> <span m="541400">look</span> <span m="541550">if</span>
+  <span m="541640">there</span> <span m="541730">are</span> <span m="541820">any</span>
+  <span m="543320">other</span> <span m="543560">residues</span> <span m="544310">close</span>
+  <span m="544640">enough</span> <span m="545600">to</span> <span m="545770">this</span>
+  <span m="546110">oxygen.</span> <span m="547040">One</span> <span m="547310">of</span>
+  <span m="547400">them</span> <span m="547610">that's</span> <span m="547790">shown</span>
+  <span m="548090">here</span> <span m="548450">is</span> <span m="548630">this</span>
+  <span m="548840">NH,</span> <span m="549800">which</span> <span m="549950">belongs</span>
+  <span m="550370">to</span> <span m="550550">an</span> <span m="550700">amide</span>
+  <span m="551090">bond,</span> <span m="551530">the</span> <span m="551900">backbone</span>
+  <span m="552170">amide,</span> <span m="553580">and</span> <span m="554060">that's</span>
+  <span m="554270">part</span> <span m="554480">of</span> <span m="554570">the</span>
+  <span m="554630">amino</span> <span m="554960">acid</span> <span m="555440">serine</span>
+  <span m="555920">307.</span> <span m="556985">So</span> <span m="557360">this</span>
+  <span m="557570">distance</span> <span m="557960">here,</span> <span m="558230">C3.06</span>
+  <span m="559850">Angstrom,</span> <span m="560870">it's</span> <span m="560990">actually</span>
+  <span m="561320">close</span> <span m="561620">enough</span> <span m="561830">for</span>
+  <span m="562060">a</span> <span m="562370">fairly</span> <span m="563330">good</span>
+  <span m="563660">hydrogen</span> <span m="564170">bond.</span></p><p><span m="566860">Presumably,</span>
+  <span m="567370">this</span> <span m="567610">interaction</span> <span m="568120">will</span>
+  <span m="568240">stabilize</span> <span m="568750">the</span> <span m="568870">binding</span>
+  <span m="569980">of</span> <span m="570560">acetyl-CoA</span> <span m="571900">in</span>
+  <span m="572110">this</span> <span m="573310">region</span> <span m="573910">of</span>
+  <span m="574030">the</span> <span m="574150">active</span> <span m="574420">site</span>
+  <span m="575080">and</span> <span m="575770">may</span> <span m="575950">also</span>
+  <span m="576280">be</span> <span m="576430">involved</span> <span m="576820">in</span>
+  <span m="576940">catalyzing</span> <span m="579150">the</span> <span m="579460">reaction</span>
+  <span m="579910">with</span> <span m="580060">the</span> <span m="580360">cysteine</span>
+  <span m="581320">by</span> <span m="581470">stabilizing</span> <span m="582280">the</span>
+  <span m="582400">tetrahedral</span> <span m="582910">intermediate.</span> <span
+  m="583450">In</span> <span m="583570">that</span> <span m="583810">case,</span>
+  <span m="584350">this</span> <span m="584500">distance</span> <span m="584890">will</span>
+  <span m="585010">have</span> <span m="585220">to</span> <span m="585310">become</span>
+  <span m="585790">even</span> <span m="586930">smaller,</span> <span m="588190">that</span>
+  <span m="588340">is</span> <span m="588490">to</span> <span m="588580">form</span>
+  <span m="589030">a</span> <span m="589120">really</span> <span m="590200">good</span>
+  <span m="590740">hydrogen</span> <span m="591190">bond</span> <span m="591640">on</span>
+  <span m="591790">the</span> <span m="591880">order</span> <span m="592060">of</span>
+  <span m="592270">2.6,</span> <span m="592900">2.7</span> <span m="593560">Angstrom.</span>
+  <span m="594550">Since</span> <span m="594820">this</span> <span m="595030">is</span>
+  <span m="595150">only</span> <span m="595420">one</span> <span m="595750">snapshot</span>
+  <span m="597950">of</span> <span m="598750">the</span> <span m="598840">reaction,</span>
+  <span m="599740">we</span> <span m="599890">don't</span> <span m="600460">have</span>
+  <span m="600730">enough</span> <span m="601000">information</span> <span m="601540">to</span>
+  <span m="601660">tell</span> <span m="601990">if</span> <span m="602170">this</span>
+  <span m="602410">is</span> <span m="602560">a</span> <span m="602650">key</span>
+  <span m="603120">catalytical</span> <span m="604270">interaction.</span></p><p><span
+  m="605500">Once</span> <span m="605710">acetyl-CoA</span> <span m="606370">has</span>
+  <span m="606550">reacted</span> <span m="606910">with</span> <span m="607060">the</span>
+  <span m="607150">enzyme,</span> <span m="607930">hence,</span> <span m="608130">formed</span>
+  <span m="608380">the</span> <span m="608510">thioester</span> <span m="609310">with</span>
+  <span m="609490">the</span> <span m="609610">cysteine</span> <span m="610090">111,</span>
+  <span m="611260">we're</span> <span m="611410">now</span> <span m="611590">ready</span>
+  <span m="611920">to</span> <span m="612070">proceed</span> <span m="612490">with</span>
+  <span m="612640">the</span> <span m="612730">reaction</span> <span m="613550">and</span>
+  <span m="613720">form</span> <span m="614380">a</span> <span m="614450">carbon-carbon</span>
+  <span m="615130">bond.</span> <span m="615940">Let's</span> <span m="616090">take</span>
+  <span m="616270">a</span> <span m="616330">look.</span></p><p><span m="616990">So</span>
+  <span m="617320">in</span> <span m="617500">the</span> <span m="617590">next</span>
+  <span m="617830">step</span> <span m="618190">of</span> <span m="618310">the</span>
+  <span m="618520">reaction,</span> <span m="619510">we</span> <span m="619720">want</span>
+  <span m="620500">to</span> <span m="620620">form</span> <span m="621190">a</span>
+  <span m="621250">carbon-carbon</span> <span m="621940">bond</span> <span m="622240">between</span>
+  <span m="622810">this</span> <span m="623290">methyl</span> <span m="623590">group</span>
+  <span m="623830">here</span> <span m="624590">and</span> <span m="624940">this</span>
+  <span m="625120">carbon</span> <span m="625960">of</span> <span m="626080">the</span>
+  <span m="626380">carbonyl</span> <span m="627630">of</span> <span m="627880">the</span>
+  <span m="628240">other</span> <span m="628450">substrate.</span> <span m="630070">So</span>
+  <span m="630760">first</span> <span m="631000">of</span> <span m="631120">all,</span>
+  <span m="631300">we</span> <span m="631420">need</span> <span m="631600">to</span>
+  <span m="632680">deprotonate</span> <span m="634120">this</span> <span m="634270">methyl</span>
+  <span m="634630">group.</span> <span m="635530">We're</span> <span m="635740">going</span>
+  <span m="636000">to</span> <span m="636070">form</span> <span m="636830">an</span>
+  <span m="637190">enolate.</span> <span m="637780">Then</span> <span m="638040">the</span>
+  <span m="638345">enolate</span> <span m="638650">is</span> <span m="638800">going</span>
+  <span m="638950">to</span> <span m="639220">attack</span> <span m="639610">this</span>
+  <span m="639790">carbonyl.</span></p><p><span m="642670">Once</span> <span m="642850">again,</span>
+  <span m="643180">we</span> <span m="643350">look</span> <span m="643540">for</span>
+  <span m="643720">a</span> <span m="643780">suitable</span> <span m="644200">base,</span>
+  <span m="645020">and</span> <span m="645130">we</span> <span m="645280">see,</span>
+  <span m="645580">for</span> <span m="645730">example,</span> <span m="646120">this</span>
+  <span m="647140">glutamate</span> <span m="647700">79</span> <span m="648760">may</span>
+  <span m="649000">be,</span> <span m="649450">in</span> <span m="649540">fact,</span>
+  <span m="650770">serving</span> <span m="651460">as</span> <span m="651640">a</span>
+  <span m="651730">general</span> <span m="652090">base</span> <span m="652510">to</span>
+  <span m="652660">deprotonate</span> <span m="654030">the</span> <span m="654250">methyl</span>
+  <span m="654610">group</span> <span m="654850">here</span> <span m="655290">and</span>
+  <span m="655410">form</span> <span m="655710">the</span> <span m="655840">enolate.</span>
+  <span m="656800">Once</span> <span m="657580">the</span> <span m="657670">enolate</span>
+  <span m="657910">is</span> <span m="658210">formed,</span> <span m="659230">it's</span>
+  <span m="659290">going</span> <span m="659410">to</span> <span m="659470">attack</span>
+  <span m="660400">this</span> <span m="660640">carbonyl,</span> <span m="662050">and</span>
+  <span m="662380">this</span> <span m="662560">oxygen</span> <span m="663010">is</span>
+  <span m="663130">going</span> <span m="663250">to</span> <span m="663340">start</span>
+  <span m="663580">developing</span> <span m="664150">a</span> <span m="664210">negative</span>
+  <span m="664570">charge,</span> <span m="665020">which</span> <span m="665290">needs</span>
+  <span m="665530">to</span> <span m="665650">be</span> <span m="666610">compensated</span>
+  <span m="668050">by</span> <span m="669370">a</span> <span m="669590">general</span>
+  <span m="670060">acid.</span> <span m="671050">And</span> <span m="671380">it</span>
+  <span m="671470">looks</span> <span m="671710">like</span> <span m="671980">this</span>
+  <span m="672340">histidine</span> <span m="672870">233</span> <span m="673590">is</span>
+  <span m="673720">close</span> <span m="674050">enough</span> <span m="674620">to</span>
+  <span m="674740">donate</span> <span m="675130">a</span> <span m="675190">proton</span>
+  <span m="676460">and</span> <span m="676540">generate</span> <span m="676960">a</span>
+  <span m="677410">hydroxyl</span> <span m="677920">group</span> <span m="678160">here.</span></p><p><span
+  m="679210">All</span> <span m="679300">right.</span> <span m="679510">So</span>
+  <span m="679990">let's</span> <span m="680170">try</span> <span m="680320">to</span>
+  <span m="680440">write</span> <span m="680620">a</span> <span m="680680">mechanism</span>
+  <span m="681340">based</span> <span m="682360">on</span> <span m="682540">what</span>
+  <span m="682720">we</span> <span m="682820">just</span> <span m="683020">said.</span>
+  <span m="684070">Here</span> <span m="684280">is</span> <span m="684460">the</span>
+  <span m="685990">thioester</span> <span m="686380">between</span> <span m="686890">cysteine</span>
+  <span m="687880">111</span> <span m="688850">and</span> <span m="689910">acetyl.</span>
+  <span m="691720">And</span> <span m="692080">let's</span> <span m="692290">show</span>
+  <span m="692650">the</span> <span m="692800">general</span> <span m="693230">base.</span>
+  <span m="695620">It's</span> <span m="695740">going</span> <span m="695920">to</span>
+  <span m="695980">be</span> <span m="696250">glutamate</span> <span m="697450">79.</span>
+  <span m="699240">Because</span> <span m="699510">it's</span> <span m="699630">a</span>
+  <span m="699660">base,</span> <span m="701346">I'm</span> <span m="701758">going</span>
+  <span m="702170">to</span> <span m="702330">put</span> <span m="702510">a</span>
+  <span m="702570">negative</span> <span m="702930">charge</span> <span m="703530">on</span>
+  <span m="703710">it.</span> <span m="704300">There</span> <span m="704410">you</span>
+  <span m="704480">go.</span></p><p><span m="705960">And</span> <span m="706260">this</span>
+  <span m="706770">will</span> <span m="706920">serve</span> <span m="708210">to</span>
+  <span m="708330">deprotonate</span> <span m="710720">the</span> <span m="712310">methyl</span>
+  <span m="712840">from</span> <span m="713050">the</span> <span m="713170">acetyl,</span>
+  <span m="715620">moiety</span> <span m="716050">here,</span> <span m="717250">and</span>
+  <span m="717370">generate</span> <span m="717770">an</span> <span m="717950">enolate.</span>
+  <span m="721595">So</span> <span m="722050">it's</span> <span m="722320">picking</span>
+  <span m="722600">up</span> <span m="722810">a</span> <span m="722870">proton,</span>
+  <span m="723950">electron</span> <span m="724490">move,</span> <span m="725540">and</span>
+  <span m="726470">it's</span> <span m="726560">going</span> <span m="726740">to</span>
+  <span m="726800">generate,</span> <span m="727370">as</span> <span m="727580">before,</span>
+  <span m="729190">a</span> <span m="730240">negative</span> <span m="730630">charge</span>
+  <span m="731050">on</span> <span m="731140">the</span> <span m="731230">oxygen,</span>
+  <span m="731950">which</span> <span m="732130">may</span> <span m="732310">be</span>
+  <span m="732430">stabilized</span> <span m="733060">by</span> <span m="733270">that</span>
+  <span m="733960">interaction</span> <span m="734660">with</span> <span m="734890">the</span>
+  <span m="735120">[INAUDIBLE]</span> <span m="737170">hydrogen</span> <span m="738430">that</span>
+  <span m="738520">we</span> <span m="738640">just</span> <span m="738850">discussed.</span></p><p><span
+  m="740773">Now,</span> <span m="745960">let's</span> <span m="746230">try</span>
+  <span m="746500">this</span> <span m="746680">again.</span> <span m="750980">And</span>
+  <span m="751220">here</span> <span m="751520">is</span> <span m="751760">our</span>
+  <span m="752260">enolate.</span> <span m="753692">In</span> <span m="754040">the</span>
+  <span m="754160">next</span> <span m="754370">step,</span> <span m="754740">the</span>
+  <span m="754810">enolate</span> <span m="755430">now</span> <span m="755630">is</span>
+  <span m="755750">going</span> <span m="755900">to</span> <span m="756050">attack</span>
+  <span m="756860">the</span> <span m="757190">carbonyl</span> <span m="757940">of</span>
+  <span m="758090">the</span> <span m="758300">acetoacetyl-CoA</span> <span m="759920">and</span>
+  <span m="760100">form</span> <span m="761030">the</span> <span m="761630">carbon-carbon</span>
+  <span m="762290">bond.</span></p><p><span m="767300">All</span> <span m="767390">right.</span>
+  <span m="767720">This</span> <span m="767930">is</span> <span m="768150">the</span>
+  <span m="768310">acetoacetyl-CoA,</span> <span m="771250">and</span> <span m="771820">we</span>
+  <span m="772030">discussed</span> <span m="772540">that</span> <span m="772930">next</span>
+  <span m="773200">to</span> <span m="773320">this</span> <span m="773920">oxygen</span>
+  <span m="774630">there</span> <span m="774820">is</span> <span m="775870">our</span>
+  <span m="782990">histidine</span> <span m="783480">233,</span> <span m="784320">which</span>
+  <span m="784740">we're</span> <span m="784830">going</span> <span m="784980">to</span>
+  <span m="785040">show</span> <span m="785250">it</span> <span m="785400">as</span>
+  <span m="785550">being</span> <span m="785970">protonated.</span> <span m="787420">Therefore,</span>
+  <span m="788880">the</span> <span m="788970">reaction</span> <span m="790760">proceeds</span>
+  <span m="791180">as</span> <span m="791330">follows.</span></p><p><span m="792360">Here</span>
+  <span m="792710">we're</span> <span m="792860">forming</span> <span m="793280">the</span>
+  <span m="793370">carbon-carbon</span> <span m="794030">bond.</span> <span m="794960">Then</span>
+  <span m="798110">the</span> <span m="798420">oxygen</span> <span m="798750">is</span>
+  <span m="798810">going</span> <span m="798930">to</span> <span m="798990">pick</span>
+  <span m="799200">up</span> <span m="799350">the</span> <span m="799440">proton</span>
+  <span m="800310">from</span> <span m="800550">the</span> <span m="801240">protonated</span>
+  <span m="801630">histidine</span> <span m="802260">and</span> <span m="802750">it's</span>
+  <span m="802980">going</span> <span m="803100">to</span> <span m="803160">form</span>
+  <span m="803460">a</span> <span m="803520">hydroxyl</span> <span m="804060">group.</span>
+  <span m="807920">Therefore,</span> <span m="808520">we</span> <span m="808700">get</span>
+  <span m="810700">cysteine</span> <span m="811330">111</span> <span m="811580">is</span>
+  <span m="811830">still</span> <span m="812140">attached</span> <span m="812680">to</span>
+  <span m="815610">what</span> <span m="815790">is</span> <span m="815910">known</span>
+  <span m="816900">the</span> <span m="817740">HMG-CoA</span> <span m="819300">product.</span></p><p><span
+  m="820870">So</span> <span m="821020">this</span> <span m="821230">is</span> <span
+  m="821800">our</span> <span m="822400">carbon.</span> <span m="823520">This</span>
+  <span m="823600">is</span> <span m="823690">the</span> <span m="823790">new</span>
+  <span m="823960">carbon-carbon</span> <span m="824650">bond.</span> <span m="825700">We</span>
+  <span m="825820">have</span> <span m="826000">here a</span> <span m="826810">methyl</span>
+  <span m="827170">group.</span> <span m="828080">We</span> <span m="828230">have</span>
+  <span m="828490">the</span> <span m="828610">new</span> <span m="829120">hydroxyl,</span>
+  <span m="829800">which</span> <span m="830130">were</span> <span m="830460">formed</span>
+  <span m="830770">here,</span> <span m="832440">and</span> <span m="832980">the</span>
+  <span m="833100">rest</span> <span m="833520">of</span> <span m="833700">the</span>
+  <span m="834720">molecule.</span> <span m="839120">And</span> <span m="839840">our</span>
+  <span m="839990">histidine,</span> <span m="840710">it</span> <span m="840800">was</span>
+  <span m="840980">protonated</span> <span m="841470">here,</span> <span m="842210">now</span>
+  <span m="842540">it's</span> <span m="842690">going</span> <span m="842840">to</span>
+  <span m="842930">be</span> <span m="844220">deprotonated.</span></p><p><span m="846110">So</span>
+  <span m="846230">we</span> <span m="846350">just</span> <span m="846530">saw</span>
+  <span m="846950">how</span> <span m="847190">the</span> <span m="847340">carbon-carbon</span>
+  <span m="849290">bond</span> <span m="849980">is</span> <span m="850130">formed</span>
+  <span m="850590">in</span> <span m="850700">the</span> <span m="850820">course</span>
+  <span m="851060">of</span> <span m="851180">this</span> <span m="851360">reaction.</span>
+  <span m="852450">And</span> <span m="852470">now</span> <span m="852650">we're</span>
+  <span m="852830">left</span> <span m="853130">with</span> <span m="853340">a</span>
+  <span m="853520">six-carbon</span> <span m="854750">thioester</span> <span m="856240">with</span>
+  <span m="856570">a</span> <span m="856875">cysteine</span> <span m="857180">111</span>
+  <span m="857770">in</span> <span m="857900">the</span> <span m="857990">active</span>
+  <span m="858230">side</span> <span m="858410">of</span> <span m="858485">the</span>
+  <span m="858560">enzyme.</span> <span m="860764">Therefore,</span> <span m="861520">the</span>
+  <span m="861640">last</span> <span m="861910">step</span> <span m="862240">of</span>
+  <span m="862360">the</span> <span m="862450">reaction</span> <span m="863170">would</span>
+  <span m="863320">involve</span> <span m="863890">hydrolysis</span> <span m="864520">of</span>
+  <span m="864640">this</span> <span m="864850">thioester</span> <span m="866020">to</span>
+  <span m="866260">free</span> <span m="866860">the</span> <span m="866950">product</span>
+  <span m="867790">and</span> <span m="867880">regenerate</span> <span m="868450">the</span>
+  <span m="868540">system.</span></p><p><span m="871000">So</span> <span m="871240">for</span>
+  <span m="871360">the</span> <span m="871480">last</span> <span m="871720">step,</span>
+  <span m="872050">we</span> <span m="872170">need</span> <span m="872320">to</span>
+  <span m="872470">hydrolyze</span> <span m="873160">this</span> <span m="873540">thioester,</span>
+  <span m="875020">and</span> <span m="875230">for</span> <span m="875410">that,</span>
+  <span m="875710">we're</span> <span m="875800">going</span> <span m="875950">to</span>
+  <span m="876010">need</span> <span m="876220">to</span> <span m="876370">activate</span>
+  <span m="877120">a</span> <span m="877240">water</span> <span m="877630">molecule.</span>
+  <span m="879190">Once</span> <span m="879370">again,</span> <span m="880960">we</span>
+  <span m="881110">don't</span> <span m="881290">know--</span> <span m="884400">here</span>
+  <span m="884580">is</span> <span m="884650">the</span> <span m="884730">water</span>
+  <span m="885000">molecule--</span> <span m="886170">we</span> <span m="886290">don't</span>
+  <span m="886440">know</span> <span m="886770">what's</span> <span m="887100">the</span>
+  <span m="887310">general</span> <span m="887790">base,</span> <span m="888540">the</span>
+  <span m="888630">residue</span> <span m="889080">in</span> <span m="889170">the</span>
+  <span m="889290">active</span> <span m="889560">site,</span> <span m="890290">which</span>
+  <span m="890550">removed</span> <span m="890940">this</span> <span m="891090">proton</span>
+  <span m="891480">from</span> <span m="891690">water</span> <span m="892350">to</span>
+  <span m="892500">allow</span> <span m="892770">it</span> <span m="892860">to</span>
+  <span m="893010">attack</span> <span m="894060">the</span> <span m="894600">carbonyl</span>
+  <span m="895110">of</span> <span m="895260">the</span> <span m="895470">thioester.</span>
+  <span m="897450">So</span> <span m="898110">we're</span> <span m="898230">going</span>
+  <span m="898380">to</span> <span m="898470">call</span> <span m="898680">it</span>
+  <span m="898980">a</span> <span m="899040">general</span> <span m="899490">base</span>
+  <span m="903000">attached</span> <span m="903360">to</span> <span m="903460">the</span>
+  <span m="903550">enzyme.</span></p><p><span m="907380">So</span> <span m="907400">this</span>
+  <span m="907580">base</span> <span m="908150">is</span> <span m="908270">going</span>
+  <span m="908390">to</span> <span m="908480">pick</span> <span m="908710">a</span>
+  <span m="908750">proton</span> <span m="909110">from</span> <span m="909350">water,</span>
+  <span m="910250">and</span> <span m="910400">then</span> <span m="910580">the</span>
+  <span m="910700">water</span> <span m="911120">is</span> <span m="911270">going</span>
+  <span m="911390">to</span> <span m="911480">add</span> <span m="912590">to</span>
+  <span m="912710">the</span> <span m="912860">carbonyl</span> <span m="914680">and</span>
+  <span m="915790">once</span> <span m="915970">again</span> <span m="916240">generate
+  a</span> <span m="916720">tetrahedral</span> <span m="917410">intermediate.</span>
+  <span m="924630">Say,</span> <span m="925080">this</span> <span m="925360">the</span>
+  <span m="925540">OH</span> <span m="925870">from</span> <span m="926120">water,</span>
+  <span m="927830">and</span> <span m="931210">this</span> <span m="931350">is</span>
+  <span m="931550">the</span> <span m="931670">rest</span> <span m="931970">of</span>
+  <span m="932060">the</span> <span m="932170">molecule.</span> <span m="939480">Once</span>
+  <span m="939660">again,</span> <span m="939960">this</span> <span m="940140">is</span>
+  <span m="940260">a</span> <span m="940320">tetrahedral</span> <span m="940920">intermediate,</span>
+  <span m="941580">very</span> <span m="941790">similar</span> <span m="942210">to</span>
+  <span m="942330">the</span> <span m="942420">one</span> <span m="942630">we</span>
+  <span m="942720">saw</span> <span m="943110">in</span> <span m="943200">the</span>
+  <span m="943290">first</span> <span m="943590">step</span> <span m="943950">when</span>
+  <span m="944130">we</span> <span m="944250">formed</span> <span m="944650">this</span>
+  <span m="945060">thioester,</span> <span m="945960">and</span> <span m="946050">presumably,</span>
+  <span m="946670">it's</span> <span m="946770">going</span> <span m="946890">to</span>
+  <span m="946950">be</span> <span m="947040">stabilized</span> <span m="947670">in</span>
+  <span m="947790">a</span> <span m="948330">fairly</span> <span m="948600">similar</span>
+  <span m="949320">manner.</span></p><p><span m="952340">Let's</span> <span m="952520">also</span>
+  <span m="952760">show</span> <span m="953030">that</span> <span m="953180">this</span>
+  <span m="954290">base</span> <span m="954680">attached</span> <span m="955055">to</span>
+  <span m="955180">the</span> <span m="955305">enzyme</span> <span m="955430">is</span>
+  <span m="955640">now</span> <span m="957120">protonated,</span> <span m="960380">and</span>
+  <span m="961130">it</span> <span m="961230">would</span> <span m="961400">probably</span>
+  <span m="962270">donate</span> <span m="962630">this</span> <span m="962780">proton</span>
+  <span m="963500">to</span> <span m="963710">reprotonate</span> <span m="964340">the</span>
+  <span m="964460">cysteine</span> <span m="964920">and</span> <span m="965230">reform</span>
+  <span m="965670">that</span> <span m="965810">thiol</span> <span m="966120">group.</span>
+  <span m="967240">So</span> <span m="967290">in</span> <span m="967340">the</span>
+  <span m="967400">second</span> <span m="967700">step,</span> <span m="968830">thiol</span>
+  <span m="969590">takes</span> <span m="969830">the</span> <span m="969890">electrons,</span>
+  <span m="975130">which</span> <span m="975340">picks</span> <span m="975610">up</span>
+  <span m="975790">the</span> <span m="975910">proton</span> <span m="976420">from</span>
+  <span m="976660">the</span> <span m="977830">general</span> <span m="978220">base</span>
+  <span m="978910">in</span> <span m="979000">the</span> <span m="979120">active</span>
+  <span m="979390">site.</span></p><p><span m="983075">So</span> <span m="983560">at</span>
+  <span m="983650">this</span> <span m="983800">point,</span> <span m="984490">we're</span>
+  <span m="984580">just</span> <span m="984760">going</span> <span m="984910">to</span>
+  <span m="985330">release</span> <span m="987540">the</span> <span m="987660">thiol</span>
+  <span m="988170">of</span> <span m="988350">the</span> <span m="988470">cysteine</span>
+  <span m="988980">111,</span> <span m="990120">and</span> <span m="990330">the</span>
+  <span m="990420">rest</span> <span m="990630">of</span> <span m="990720">the</span>
+  <span m="990810">molecule</span> <span m="991600">is</span> <span m="991800">exactly</span>
+  <span m="992250">our</span> <span m="992430">product,</span> <span m="998490">which</span>
+  <span m="998700">is</span> <span m="998820">the</span> <span m="999900">HMG-CoA.</span></p><p><span
+  m="1004090">The</span> <span m="1004180">curved</span> <span m="1004510">arrow</span>
+  <span m="1004810">mechanism</span> <span m="1005380">we</span> <span m="1005530">just</span>
+  <span m="1005800">wrote</span> <span m="1007240">answers</span> <span m="1007660">part</span>
+  <span m="1007930">1</span> <span m="1008350">of</span> <span m="1008470">the</span>
+  <span m="1008560">problem.</span> <span m="1012240">Second</span> <span m="1012540">question</span>
+  <span m="1012960">of</span> <span m="1013050">this</span> <span m="1013200">problem</span>
+  <span m="1013800">is</span> <span m="1013920">asking</span> <span m="1014310">about</span>
+  <span m="1014520">the</span> <span m="1014610">stabilization</span> <span m="1015450">of</span>
+  <span m="1015570">the</span> <span m="1015680">tetrahedral</span> <span m="1016200">intermediate,</span>
+  <span m="1017310">which</span> <span m="1017490">actually</span> <span m="1017790">we</span>
+  <span m="1017940">have</span> <span m="1018090">just</span> <span m="1018360">discussed.</span>
+  <span m="1019710">But</span> <span m="1019920">let</span> <span m="1020040">me</span>
+  <span m="1020340">reiterate</span> <span m="1021480">as</span> <span m="1021660">you</span>
+  <span m="1021750">guys</span> <span m="1022020">saw</span> <span m="1022500">in</span>
+  <span m="1022620">the</span> <span m="1022740">serine</span> <span m="1023160">protease</span>
+  <span m="1023640">mechanisms,</span> <span m="1025130">whenever</span> <span m="1025470">we're</span>
+  <span m="1025560">forming</span> <span m="1025920">this</span> <span m="1026069">tetrahedral</span>
+  <span m="1026569">intermediate,</span> <span m="1027329">they</span> <span m="1027450">tend</span>
+  <span m="1027599">to</span> <span m="1027720">be</span> <span m="1027810">stabilized</span>
+  <span m="1028440">in</span> <span m="1028650">an</span> <span m="1029250">oxyanion</span>
+  <span m="1030150">hole,</span> <span m="1031380">which</span> <span m="1032190">is</span>
+  <span m="1032310">basically</span> <span m="1032700">a</span> <span m="1032760">structure</span>
+  <span m="1033450">of</span> <span m="1034530">the</span> <span m="1034980">enzyme,</span>
+  <span m="1036359">which</span> <span m="1036540">can</span> <span m="1036690">form</span>
+  <span m="1036990">hydrogen</span> <span m="1037500">bonds</span> <span m="1037980">with</span>
+  <span m="1038250">the</span> <span m="1038670">partial</span> <span m="1039060">negative</span>
+  <span m="1039420">charge</span> <span m="1039839">or</span> <span m="1039960">full</span>
+  <span m="1040230">negative</span> <span m="1040530">charge</span> <span m="1040829">that</span>
+  <span m="1040950">develops</span> <span m="1041790">in</span> <span m="1041910">a</span>
+  <span m="1041970">tetrahedral</span> <span m="1042500">intermediate.</span></p><p><span
+  m="1044130">Presumably,</span> <span m="1044910">similar</span> <span m="1045359">structure</span>
+  <span m="1045839">exists</span> <span m="1046470">for</span> <span m="1046650">this</span>
+  <span m="1047390">HMG-CoA</span> <span m="1047990">synthase,</span> <span m="1049230">but</span>
+  <span m="1049920">because</span> <span m="1050160">we're</span> <span m="1050580">only</span>
+  <span m="1050880">given</span> <span m="1051240">one</span> <span m="1051960">snapshot,</span>
+  <span m="1052680">one</span> <span m="1052980">crystal</span> <span m="1053340">structure,</span>
+  <span m="1054210">that</span> <span m="1054360">is</span> <span m="1054480">not</span>
+  <span m="1054720">sufficient</span> <span m="1055230">information</span> <span m="1056130">to</span>
+  <span m="1056250">say</span> <span m="1056430">for</span> <span m="1056640">sure</span>
+  <span m="1057330">which</span> <span m="1057630">are</span> <span m="1057900">the</span>
+  <span m="1058860">key</span> <span m="1059130">interactions</span> <span m="1059850">to</span>
+  <span m="1060000">stabilize</span> <span m="1061080">these</span> <span m="1061560">tetrahedral</span>
+  <span m="1062070">intermediates.</span> <span m="1063660">A</span> <span m="1063750">lot</span>
+  <span m="1063930">more</span> <span m="1064140">work,</span> <span m="1064500">a</span>
+  <span m="1064550">lot</span> <span m="1064680">more</span> <span m="1064950">experimental</span>
+  <span m="1065700">data</span> <span m="1066050">is</span> <span m="1066210">necessary</span>
+  <span m="1067230">to</span> <span m="1068220">figure</span> <span m="1068610">out</span>
+  <span m="1069480">which</span> <span m="1069780">are</span> <span m="1069930">the</span>
+  <span m="1070050">key</span> <span m="1070320">hydrogen</span> <span m="1070800">bonds</span>
+  <span m="1071820">and</span> <span m="1072240">interactions</span> <span m="1072900">that</span>
+  <span m="1072990">stabilize</span> <span m="1073530">the</span> <span m="1073640">tetrahedral</span>
+  <span m="1074070">intermediates.</span></p><p><span m="1078060">Question</span>
+  <span m="1078390">3</span> <span m="1078780">is</span> <span m="1078960">asking</span>
+  <span m="1079230">us</span> <span m="1079410">to</span> <span m="1079800">review</span>
+  <span m="1080730">the</span> <span m="1081120">mechanisms</span> <span m="1081780">by</span>
+  <span m="1081960">which</span> <span m="1082200">enzymes</span> <span m="1083040">can</span>
+  <span m="1083190">achieve</span> <span m="1083580">their</span> <span m="1084120">amazing</span>
+  <span m="1084930">rate</span> <span m="1085200">acceleration,</span> <span m="1086830">which</span>
+  <span m="1086940">is</span> <span m="1087060">on</span> <span m="1087150">the</span>
+  <span m="1087240">order</span> <span m="1087480">of</span> <span m="1087570">10</span>
+  <span m="1087750">to</span> <span m="1087870">the</span> <span m="1087930">6</span>
+  <span m="1088170">to</span> <span m="1088260">10</span> <span m="1088410">to</span>
+  <span m="1088620">15</span> <span m="1089220">times</span> <span m="1090150">over</span>
+  <span m="1090450">the</span> <span m="1090730">uncatalyzed</span> <span m="1091320">reaction</span>
+  <span m="1093470">and</span> <span m="1093920">of</span> <span m="1094040">course,</span>
+  <span m="1094250">to</span> <span m="1094370">point</span> <span m="1094730">out</span>
+  <span m="1094940">these</span> <span m="1095120">mechanisms</span> <span m="1095900">in</span>
+  <span m="1096050">the</span> <span m="1096140">context</span> <span m="1096650">of</span>
+  <span m="1096800">the</span> <span m="1096890">HMG-CoA</span> <span m="1097870">synthase.</span></p><p><span
+  m="1099260">As</span> <span m="1099410">you</span> <span m="1099500">have</span>
+  <span m="1099620">seen</span> <span m="1100100">over</span> <span m="1100400">and</span>
+  <span m="1100490">over</span> <span m="1100850">in</span> <span m="1100960">this</span>
+  <span m="1101130">course,</span> <span m="1102040">the</span> <span m="1102140">three</span>
+  <span m="1102440">general</span> <span m="1102890">mechanisms</span> <span m="1103970">by</span>
+  <span m="1104090">which</span> <span m="1104360">enzymes</span> <span m="1105190">accelerate</span>
+  <span m="1105650">reactions</span> <span m="1106610">are</span> <span m="1107450">binding</span>
+  <span m="1107810">energy,</span> <span m="1109230">general</span> <span m="1109620">acid/general</span>
+  <span m="1110220">base</span> <span m="1110480">catalysis</span> <span m="1111540">and</span>
+  <span m="1111960">covalent</span> <span m="1112500">catalysis.</span> <span m="1114330">Now</span>
+  <span m="1114480">let's</span> <span m="1114690">take</span> <span m="1114870">a</span>
+  <span m="1114930">look</span> <span m="1115080">at</span> <span m="1115200">our</span>
+  <span m="1115560">structure</span> <span m="1116730">and</span> <span m="1116850">figure</span>
+  <span m="1117180">out</span> <span m="1117330">how</span> <span m="1117630">each</span>
+  <span m="1117840">one</span> <span m="1118020">of</span> <span m="1118110">these</span>
+  <span m="1118800">mechanisms</span> <span m="1119370">might</span> <span m="1119580">be</span>
+  <span m="1119730">operating.</span></p><p><span m="1121670">To</span> <span m="1121770">start</span>
+  <span m="1122070">off,</span> <span m="1122970">covalent</span> <span m="1123440">catalysis,</span>
+  <span m="1124520">it's</span> <span m="1124680">pretty</span> <span m="1124950">obvious</span>
+  <span m="1125370">here</span> <span m="1126000">the</span> <span m="1126090">acetyl-CoA</span>
+  <span m="1128160">substrate</span> <span m="1129510">first</span> <span m="1129900">reacts</span>
+  <span m="1130580">and</span> <span m="1130740">forms</span> <span m="1131490">a</span>
+  <span m="1131640">covalent</span> <span m="1132150">bond</span> <span m="1132570">with</span>
+  <span m="1132750">the</span> <span m="1132870">cysteine</span> <span m="1134070">of</span>
+  <span m="1135800">the</span> <span m="1135950">HMG-CoA</span> <span m="1136650">synthase.</span>
+  <span m="1138080">So</span> <span m="1138530">this</span> <span m="1138710">covalent</span>
+  <span m="1139880">attachment</span> <span m="1140450">to</span> <span m="1140570">the</span>
+  <span m="1140690">enzyme</span> <span m="1141260">allows</span> <span m="1142190">this</span>
+  <span m="1142400">residue</span> <span m="1142910">to</span> <span m="1143030">be</span>
+  <span m="1143270">positioned</span> <span m="1144260">just</span> <span m="1144530">right</span>
+  <span m="1145760">so</span> <span m="1145880">that</span> <span m="1146060">it</span>
+  <span m="1146120">can</span> <span m="1146330">react</span> <span m="1146690">with</span>
+  <span m="1146840">the</span> <span m="1149330">other</span> <span m="1149480">substrate.</span></p><p><span
+  m="1150870">Now,</span> <span m="1151160">general</span> <span m="1151490">acid/general</span>
+  <span m="1151990">base</span> <span m="1152280">catalysis,</span> <span m="1153230">we've</span>
+  <span m="1153380">seen</span> <span m="1153800">all</span> <span m="1153980">these</span>
+  <span m="1154160">residues</span> <span m="1154670">that</span> <span m="1155090">participate.</span>
+  <span m="1156110">Obviously,</span> <span m="1156440">in</span> <span m="1156560">order</span>
+  <span m="1157010">for</span> <span m="1157280">this</span> <span m="1157490">to</span>
+  <span m="1157610">react,</span> <span m="1158300">we</span> <span m="1158420">need</span>
+  <span m="1158630">a</span> <span m="1158690">base</span> <span m="1159290">to</span>
+  <span m="1159380">deprotonate</span> <span m="1159930">the</span> <span m="1160040">cysteine.</span>
+  <span m="1160920">Then</span> <span m="1161060">we</span> <span m="1161150">need</span>
+  <span m="1161300">a</span> <span m="1161360">base,</span> <span m="1162410">presumably,</span>
+  <span m="1163180">this</span> <span m="1163380">glutamate</span> <span m="1163890">79,</span>
+  <span m="1164540">to</span> <span m="1164930">deprotonate</span> <span m="1165820">the</span>
+  <span m="1165920">methyl</span> <span m="1166250">group</span> <span m="1166490">here</span>
+  <span m="1166760">to</span> <span m="1166880">form</span> <span m="1167150">the</span>
+  <span m="1167270">enolate.</span> <span m="1168560">And</span> <span m="1168830">we</span>
+  <span m="1168920">need</span> <span m="1169100">an</span> <span m="1169220">acid</span>
+  <span m="1169970">to</span> <span m="1170840">stabilize</span> <span m="1171560">and</span>
+  <span m="1171710">form</span> <span m="1172100">this</span> <span m="1172550">hydroxyl</span>
+  <span m="1173120">group</span> <span m="1173720">that</span> <span m="1173810">will</span>
+  <span m="1173960">be</span> <span m="1174290">developing</span> <span m="1176910">on</span>
+  <span m="1177080">this</span> <span m="1177290">oxygen.</span> <span m="1178550">So</span>
+  <span m="1179840">covalent</span> <span m="1180370">catalysis</span> <span m="1180900">and</span>
+  <span m="1181040">general</span> <span m="1181360">acid/general</span> <span m="1181870">base</span>
+  <span m="1182080">catalysis,</span> <span m="1182570">that's</span> <span m="1182720">pretty</span>
+  <span m="1182990">obvious.</span></p><p><span m="1183980">Now</span> <span m="1184100">when</span>
+  <span m="1184250">it</span> <span m="1184310">comes</span> <span m="1184550">to</span>
+  <span m="1184670">binding</span> <span m="1185150">energy,</span> <span m="1186360">this</span>
+  <span m="1186440">is</span> <span m="1186680">not</span> <span m="1187370">something</span>
+  <span m="1187670">that</span> <span m="1187850">we</span> <span m="1187970">can</span>
+  <span m="1188720">obviously</span> <span m="1189740">derive</span> <span m="1190160">from</span>
+  <span m="1190370">the</span> <span m="1190490">structure,</span> <span m="1191060">but</span>
+  <span m="1191210">we</span> <span m="1191330">can</span> <span m="1191510">postulate</span>
+  <span m="1192470">the</span> <span m="1192560">number</span> <span m="1192890">of</span>
+  <span m="1193010">ways</span> <span m="1193280">in</span> <span m="1193370">which</span>
+  <span m="1193580">binding</span> <span m="1193940">energy</span> <span m="1194660">contributes</span>
+  <span m="1195530">to</span> <span m="1195620">this</span> <span m="1195800">reaction.</span>
+  <span m="1196610">First</span> <span m="1196850">of</span> <span m="1196970">all,</span>
+  <span m="1197285">both</span> <span m="1197600">of</span> <span m="1197690">the</span>
+  <span m="1197780">substrates</span> <span m="1198380">need</span> <span m="1198530">to</span>
+  <span m="1198650">bind</span> <span m="1198860">to</span> <span m="1199010">the</span>
+  <span m="1199130">enzyme.</span> <span m="1200030">In</span> <span m="1200210">order</span>
+  <span m="1200390">to</span> <span m="1200540">do</span> <span m="1200750">that,</span>
+  <span m="1200990">they</span> <span m="1201110">need</span> <span m="1201260">to</span>
+  <span m="1201380">be</span> <span m="1201710">desolvated,</span> <span m="1203110">that</span>
+  <span m="1203240">is</span> <span m="1203330">to</span> <span m="1203420">remove</span>
+  <span m="1203900">all</span> <span m="1204050">the</span> <span m="1204140">water</span>
+  <span m="1204440">molecules</span> <span m="1205160">that</span> <span m="1205310">surround</span>
+  <span m="1205700">them.</span> <span m="1206720">So</span> <span m="1207040">that</span>
+  <span m="1208290">by</span> <span m="1208440">itself</span> <span m="1208920">requires</span>
+  <span m="1210240">energy.</span></p><p><span m="1211640">The</span> <span m="1211740">binding</span>
+  <span m="1212100">energy</span> <span m="1212760">is</span> <span m="1212910">also</span>
+  <span m="1213690">derived</span> <span m="1214620">by</span> <span m="1215250">when</span>
+  <span m="1215460">we</span> <span m="1215640">align</span> <span m="1216750">the</span>
+  <span m="1217410">substrates</span> <span m="1218130">in</span> <span m="1218280">the</span>
+  <span m="1218430">active</span> <span m="1218670">site</span> <span m="1218970">of</span>
+  <span m="1219780">the</span> <span m="1219900">enzyme,</span> <span m="1220920">we</span>
+  <span m="1221070">align</span> <span m="1221380">them</span> <span m="1221550">so</span>
+  <span m="1221880">closely</span> <span m="1222420">the</span> <span m="1222540">right</span>
+  <span m="1222810">geometry</span> <span m="1223530">and</span> <span m="1223650">within</span>
+  <span m="1224490">a</span> <span m="1224670">few</span> <span m="1224970">tenths</span>
+  <span m="1225360">of</span> <span m="1225480">an</span> <span m="1225600">Angstrom</span>
+  <span m="1226470">so</span> <span m="1226620">that</span> <span m="1227670">the</span>
+  <span m="1227820">right</span> <span m="1228020">orbitals</span> <span m="1228600">overlap</span>
+  <span m="1229350">and</span> <span m="1229770">allow</span> <span m="1230120">the</span>
+  <span m="1230220">reaction</span> <span m="1230640">to</span> <span m="1230760">happen.</span>
+  <span m="1231810">So</span> <span m="1232230">also</span> <span m="1233060">the</span>
+  <span m="1233460">ability</span> <span m="1233940">to</span> <span m="1234100">align</span>
+  <span m="1234510">this</span> <span m="1234660">residue</span> <span m="1235140">so</span>
+  <span m="1235350">closely</span> <span m="1236130">that</span> <span m="1236310">also</span>
+  <span m="1236640">contributes</span> <span m="1237180">to</span> <span m="1237270">the</span>
+  <span m="1237390">binding</span> <span m="1237810">energy.</span></p><p><span m="1240910">And</span>
+  <span m="1241000">finally,</span> <span m="1241780">the</span> <span m="1241900">binding</span>
+  <span m="1242230">energy</span> <span m="1242740">also</span> <span m="1243520">manifests</span>
+  <span m="1244390">when</span> <span m="1244650">we're</span> <span m="1245440">stabilizing,</span>
+  <span m="1246760">for</span> <span m="1246880">example,</span> <span m="1247210">the</span>
+  <span m="1247300">transition</span> <span m="1247900">state</span> <span m="1248680">of</span>
+  <span m="1248890">the</span> <span m="1249010">reaction</span> <span m="1252760">relative</span>
+  <span m="1253150">to</span> <span m="1253240">the</span> <span m="1253360">binding</span>
+  <span m="1253750">of</span> <span m="1253870">the</span> <span m="1253960">substrates.</span>
+  <span m="1255560">So</span> <span m="1255700">if,</span> <span m="1256330">for</span>
+  <span m="1256420">example,</span> <span m="1256840">for</span> <span m="1257020">our</span>
+  <span m="1257080">tetrahedral</span> <span m="1257620">intermediate</span> <span
+  m="1258090">that</span> <span m="1258190">will</span> <span m="1258310">form</span>
+  <span m="1258640">here,</span> <span m="1259450">if</span> <span m="1260830">that</span>
+  <span m="1260980">transition</span> <span m="1261440">state</span> <span m="1261830">or</span>
+  <span m="1261990">the</span> <span m="1262070">tetrahedral</span> <span m="1262370">intermediate</span>
+  <span m="1263240">is</span> <span m="1263480">stabilized</span> <span m="1264110">more</span>
+  <span m="1264860">than</span> <span m="1265880">the</span> <span m="1266030">substrate,</span>
+  <span m="1267030">then</span> <span m="1267150">the</span> <span m="1267260">reaction</span>
+  <span m="1267890">is</span> <span m="1268070">accelerated</span> <span m="1269270">and</span>
+  <span m="1269480">proceeds</span> <span m="1270470">towards</span> <span m="1270800">that</span>
+  <span m="1270980">pass.</span></p><p><span m="1274760">Part</span> <span m="1274970">4</span>
+  <span m="1275270">of</span> <span m="1275360">the</span> <span m="1275450">problem</span>
+  <span m="1276260">is</span> <span m="1276380">asking</span> <span m="1276680">us</span>
+  <span m="1276890">to</span> <span m="1277190">look</span> <span m="1277430">up</span>
+  <span m="1277580">the</span> <span m="1277670">structure</span> <span m="1278240">of</span>
+  <span m="1278450">coenzyme</span> <span m="1278750">A,</span> <span m="1279350">or</span>
+  <span m="1279510">CoA</span> <span m="1280580">and</span> <span m="1280670">then</span>
+  <span m="1280820">contrast</span> <span m="1281330">the</span> <span m="1281390">reactivity</span>
+  <span m="1282080">of</span> <span m="1282950">say,</span> <span m="1283220">acetyl-CoA,</span>
+  <span m="1284380">the</span> <span m="1284570">thioester</span> <span m="1285050">with</span>
+  <span m="1285210">CoA,</span> <span m="1285940">with</span> <span m="1286370">the</span>
+  <span m="1286460">reactivity</span> <span m="1286980">of</span> <span m="1287080">a</span>
+  <span m="1287290">thioester</span> <span m="1287810">with</span> <span m="1287960">a</span>
+  <span m="1288020">much</span> <span m="1288230">smaller</span> <span m="1288860">thiol</span>
+  <span m="1289190">group.</span> <span m="1291220">Let's</span> <span m="1291430">see</span>
+  <span m="1291640">what</span> <span m="1291850">the</span> <span m="1291880">coenzyme</span>
+  <span m="1292410">A</span> <span m="1292630">looks</span> <span m="1292900">like.</span></p><p><span
+  m="1294050">Here</span> <span m="1294160">we</span> <span m="1294280">have</span>
+  <span m="1294520">the</span> <span m="1294640">structure</span> <span m="1295150">coenzyme</span>
+  <span m="1296020">A.</span> <span m="1297070">The</span> <span m="1297160">business</span>
+  <span m="1297490">end</span> <span m="1297640">of</span> <span m="1297760">the</span>
+  <span m="1297850">molecule</span> <span m="1298480">is</span> <span m="1298930">this</span>
+  <span m="1299320">thiol</span> <span m="1299740">group,</span> <span m="1300550">which</span>
+  <span m="1300760">is</span> <span m="1300850">attached</span> <span m="1301270">to</span>
+  <span m="1301450">a</span> <span m="1302290">substantially</span> <span m="1302950">long</span>
+  <span m="1303430">arm.</span> <span m="1304660">And</span> <span m="1304930">at</span>
+  <span m="1305020">the</span> <span m="1305170">end</span> <span m="1305380">here,</span>
+  <span m="1305710">we</span> <span m="1305860">have,</span> <span m="1306545">as</span>
+  <span m="1306840">you</span> <span m="1306990">can</span> <span m="1307140">recognize,</span>
+  <span m="1307640">two</span> <span m="1307840">phosphates,</span> <span m="1308500">the</span>
+  <span m="1308620">ribose</span> <span m="1309190">and</span> <span m="1309400">the</span>
+  <span m="1309520">base</span> <span m="1309970">adenine.</span> <span m="1310810">This</span>
+  <span m="1310990">is</span> <span m="1311440">a</span> <span m="1311470">nucleotide</span>
+  <span m="1312170">is</span> <span m="1312280">ADP.</span> <span m="1313390">There's</span>
+  <span m="1313570">also</span> <span m="1313750">another</span> <span m="1314020">phosphate</span>
+  <span m="1314470">here.</span></p><p><span m="1316330">But</span> <span m="1316840">the</span>
+  <span m="1316900">business</span> <span m="1317260">end</span> <span m="1317440">of</span>
+  <span m="1317500">the</span> <span m="1317590">molecule</span> <span m="1318070">is</span>
+  <span m="1318170">this</span> <span m="1318300">thiol</span> <span m="1318670">group,</span>
+  <span m="1319480">and</span> <span m="1319570">we're</span> <span m="1319750">asked</span>
+  <span m="1319930">to</span> <span m="1320020">contrast</span> <span m="1321100">whether</span>
+  <span m="1321430">a</span> <span m="1321715">thioester</span> <span m="1322120">form</span>
+  <span m="1322420">with</span> <span m="1322930">coenzyme</span> <span m="1323470">A</span>
+  <span m="1324430">would</span> <span m="1324580">behave</span> <span m="1324910">similarly</span>
+  <span m="1325390">to</span> <span m="1325510">a</span> <span m="1325600">thioester</span>
+  <span m="1326200">form</span> <span m="1326490">with</span> <span m="1327440">this</span>
+  <span m="1328330">right-hand</span> <span m="1328840">portion</span> <span m="1329260">of</span>
+  <span m="1329320">the</span> <span m="1329410">molecule,</span> <span m="1329890">which</span>
+  <span m="1330100">I</span> <span m="1330400">wrote</span> <span m="1330640">here.</span>
+  <span m="1331490">So</span> <span m="1331590">it's</span> <span m="1331690">a</span>
+  <span m="1331790">much</span> <span m="1331810">shorter</span> <span m="1333250">thiol.</span></p><p><span
+  m="1334270">Now,</span> <span m="1334510">it</span> <span m="1334570">turns</span>
+  <span m="1334870">out</span> <span m="1336300">these</span> <span m="1336520">thioesters</span>
+  <span m="1337270">will</span> <span m="1337480">be</span> <span m="1337960">very,</span>
+  <span m="1338480">very</span> <span m="1338620">similar</span> <span m="1339430">because</span>
+  <span m="1339970">really</span> <span m="1340390">it's</span> <span m="1340570">only</span>
+  <span m="1340780">the</span> <span m="1340900">thiol</span> <span m="1341260">moiety</span>
+  <span m="1341710">that</span> <span m="1341860">we</span> <span m="1341980">need</span>
+  <span m="1342790">to</span> <span m="1343400">form</span> <span m="1345605">thioester.</span>
+  <span m="1346800">So</span> <span m="1346930">those</span> <span m="1347170">thioesters</span>
+  <span m="1347800">will</span> <span m="1347980">behave</span> <span m="1348520">very,</span>
+  <span m="1348920">very</span> <span m="1349030">similarly.</span></p><p><span m="1351020">Now,</span>
+  <span m="1351250">the</span> <span m="1351340">advantage</span> <span m="1351850">of</span>
+  <span m="1351970">having</span> <span m="1352300">such</span> <span m="1352540">a</span>
+  <span m="1352600">long</span> <span m="1353020">arm</span> <span m="1353380">for
+  the</span> <span m="1353560">coenzyme</span> <span m="1353650">A</span> <span m="1354190">is</span>
+  <span m="1355150">that</span> <span m="1356470">it</span> <span m="1356560">provides</span>
+  <span m="1357340">a</span> <span m="1357430">way</span> <span m="1357700">to</span>
+  <span m="1357940">insert</span> <span m="1358450">the</span> <span m="1358540">substrate,</span>
+  <span m="1359590">which</span> <span m="1359770">will</span> <span m="1359920">attach</span>
+  <span m="1360370">here,</span> <span m="1361360">to</span> <span m="1361870">say,</span>
+  <span m="1362110">acetyl-CoA,</span> <span m="1363190">to</span> <span m="1363310">insert</span>
+  <span m="1363760">acetyl-CoA</span> <span m="1364660">in</span> <span m="1365170">very</span>
+  <span m="1365530">deep</span> <span m="1366220">into</span> <span m="1366490">the</span>
+  <span m="1367660">active</span> <span m="1368020">site</span> <span m="1368350">of</span>
+  <span m="1368470">the</span> <span m="1368560">enzyme.</span> <span m="1369940">Having</span>
+  <span m="1370180">a</span> <span m="1370240">long</span> <span m="1370600">arm</span>
+  <span m="1371140">to</span> <span m="1371290">guide</span> <span m="1371560">the</span>
+  <span m="1371700">thioester</span> <span m="1372250">may</span> <span m="1372430">be</span>
+  <span m="1372580">important.</span> <span m="1373240">As</span> <span m="1373360">you</span>
+  <span m="1373450">will</span> <span m="1373570">see</span> <span m="1374290">later</span>
+  <span m="1374650">in</span> <span m="1374740">the</span> <span m="1374860">course,</span>
+  <span m="1375640">fatty</span> <span m="1376000">acid</span> <span m="1376300">synthases,</span>
+  <span m="1377110">which</span> <span m="1377290">are</span> <span m="1377500">these</span>
+  <span m="1377740">mega</span> <span m="1378140">dalton</span> <span m="1378870">complexes,</span>
+  <span m="1379720">have</span> <span m="1379870">multiple</span> <span m="1380410">active</span>
+  <span m="1380800">sites.</span></p><p><span m="1381730">So</span> <span m="1384190">the</span>
+  <span m="1384490">fatty</span> <span m="1384850">acid</span> <span m="1385300">attaches</span>
+  <span m="1385900">a</span> <span m="1386240">thioester</span> <span m="1386640">to</span>
+  <span m="1386840">coenzyme</span> <span m="1387220">A</span> <span m="1387400">allows</span>
+  <span m="1388390">it</span> <span m="1388480">to</span> <span m="1388600">be</span>
+  <span m="1388750">moved</span> <span m="1389920">through</span> <span m="1390100">different</span>
+  <span m="1390550">active</span> <span m="1390940">sites</span> <span m="1391720">and</span>
+  <span m="1392290">through</span> <span m="1392590">a</span> <span m="1393190">same</span>
+  <span m="1393460">kind</span> <span m="1393670">of</span> <span m="1393940">chemistry</span>
+  <span m="1395170">in</span> <span m="1395290">multiple</span> <span m="1395710">steps</span>
+  <span m="1396100">over</span> <span m="1396400">and</span> <span m="1396520">over</span>
+  <span m="1396790">again.</span> <span m="1397450">The</span> <span m="1397540">advantage</span>
+  <span m="1397990">of</span> <span m="1398110">having</span> <span m="1398380">a</span>
+  <span m="1398440">coenzyme</span> <span m="1398900">A</span> <span m="1399850">thioester</span>
+  <span m="1400900">is</span> <span m="1401020">that</span> <span m="1401140">it</span>
+  <span m="1401230">may</span> <span m="1401380">provide</span> <span m="1401800">some</span>
+  <span m="1402010">additional</span> <span m="1402490">binding</span> <span m="1402910">energy.</span>
+  <span m="1403900">That</span> <span m="1404080">nucleotide</span> <span m="1404680">portion</span>
+  <span m="1405040">of</span> <span m="1405130">coenzyme</span> <span m="1405700">A</span>
+  <span m="1405960">may</span> <span m="1406150">interact</span> <span m="1407200">specifically</span>
+  <span m="1408040">with</span> <span m="1408220">the</span> <span m="1409480">enzyme</span>
+  <span m="1410590">near</span> <span m="1411010">the</span> <span m="1411160">active</span>
+  <span m="1411520">site,</span> <span m="1412570">whereas,</span> <span m="1413260">a</span>
+  <span m="1413320">much</span> <span m="1413560">smaller</span> <span m="1414070">thiol</span>
+  <span m="1414640">like</span> <span m="1414820">the</span> <span m="1414940">one</span>
+  <span m="1415300">we</span> <span m="1415420">just</span> <span m="1415630">saw</span>
+  <span m="1416130">will</span> <span m="1416770">not</span> <span m="1417190">have</span>
+  <span m="1417460">that</span> <span m="1417730">kind</span> <span m="1417910">of</span>
+  <span m="1418000">interaction</span> <span m="1418420">available.</span></p><p><span
+  m="1422160">Since</span> <span m="1422340">we've</span> <span m="1422460">been</span>
+  <span m="1422610">talking</span> <span m="1423030">about</span> <span m="1423270">thioesters</span>
+  <span m="1424590">throughout</span> <span m="1424890">this</span> <span m="1425100">entire</span>
+  <span m="1425430">problem,</span> <span m="1426240">the</span> <span m="1426300">last</span>
+  <span m="1426600">question</span> <span m="1427170">is</span> <span m="1427290">asking</span>
+  <span m="1427510">us</span> <span m="1427680">to</span> <span m="1427800">rationalize</span>
+  <span m="1428370">why</span> <span m="1428760">we're</span> <span m="1428940">seeing</span>
+  <span m="1429610">thioesters</span> <span m="1431040">in</span> <span m="1431250">metabolism</span>
+  <span m="1432990">as</span> <span m="1433110">opposed</span> <span m="1433440">to</span>
+  <span m="1433680">oxygen</span> <span m="1434320">esters.</span> <span m="1435630">Now,</span>
+  <span m="1435810">the</span> <span m="1435930">key</span> <span m="1437160">message</span>
+  <span m="1438030">you</span> <span m="1438150">need</span> <span m="1438330">to</span>
+  <span m="1438420">remember</span> <span m="1438810">here</span> <span m="1439140">is</span>
+  <span m="1439290">that</span> <span m="1439470">the</span> <span m="1439650">resonance</span>
+  <span m="1440790">that</span> <span m="1440910">we</span> <span m="1441060">observe</span>
+  <span m="1441600">in</span> <span m="1441780">oxygen</span> <span m="1442290">esters</span>
+  <span m="1443070">is</span> <span m="1443460">almost</span> <span m="1443940">completely</span>
+  <span m="1444420">absent</span> <span m="1444930">in</span> <span m="1445200">thioesters.</span>
+  <span m="1446470">And</span> <span m="1446690">this</span> <span m="1446880">fact</span>
+  <span m="1447210">makes</span> <span m="1447480">the</span> <span m="1447630">thioesters</span>
+  <span m="1448560">less</span> <span m="1448740">stable</span> <span m="1449520">and</span>
+  <span m="1449610">therefore,</span> <span m="1450030">more</span> <span m="1450360">reactive.</span>
+  <span m="1451560">Not</span> <span m="1451740">only</span> <span m="1452400">their</span>
+  <span m="1452610">carbonyl</span> <span m="1453180">group</span> <span m="1453380">behaves</span>
+  <span m="1453840">more</span> <span m="1454110">like</span> <span m="1454320">a</span>
+  <span m="1454380">ketone</span> <span m="1454830">group,</span> <span m="1455580">but</span>
+  <span m="1456040">their</span> <span m="1456210">alpha</span> <span m="1456540">hydrogens</span>
+  <span m="1457290">are</span> <span m="1457410">more</span> <span m="1457620">acidic.</span>
+  <span m="1459060">Let's</span> <span m="1459270">take</span> <span m="1459420">a</span>
+  <span m="1459480">look.</span></p><p><span m="1460620">Here</span> <span m="1460860">is</span>
+  <span m="1461030">an</span> <span m="1461370">oxygen</span> <span m="1461970">ester</span>
+  <span m="1467830">that</span> <span m="1467980">shows</span> <span m="1468430">a</span>
+  <span m="1469390">proton</span> <span m="1469930">in</span> <span m="1470140">alpha</span>
+  <span m="1470440">position.</span> <span m="1472060">And</span> <span m="1472720">as</span>
+  <span m="1472870">you</span> <span m="1473365">know,</span> <span m="1473860">the</span>
+  <span m="1473980">lone</span> <span m="1474100">pairs</span> <span m="1474490">on</span>
+  <span m="1474730">this</span> <span m="1475390">oxygen</span> <span m="1476320">can</span>
+  <span m="1478180">conjugate</span> <span m="1478890">with</span> <span m="1479150">the</span>
+  <span m="1479790">carbonyl</span> <span m="1480300">group</span> <span m="1481260">and</span>
+  <span m="1481360">form</span> <span m="1481720">certain</span> <span m="1482050">resonance</span>
+  <span m="1482440">structures,</span> <span m="1484450">one</span> <span m="1484690">of</span>
+  <span m="1484810">which</span> <span m="1485710">being</span> <span m="1487420">this</span>
+  <span m="1487630">one.</span></p><p><span m="1495540">So</span> <span m="1495720">the</span>
+  <span m="1495840">electrons</span> <span m="1496290">can</span> <span m="1496440">move</span>
+  <span m="1496680">like</span> <span m="1496890">this,</span> <span m="1497220">and</span>
+  <span m="1497680">then</span> <span m="1497790">we're</span> <span m="1497880">going</span>
+  <span m="1498000">to</span> <span m="1498060">have</span> <span m="1498210">a</span>
+  <span m="1498270">negative</span> <span m="1498600">charge</span> <span m="1498990">here</span>
+  <span m="1499340">and</span> <span m="1499530">a</span> <span m="1499590">positive</span>
+  <span m="1500070">charge</span> <span m="1500460">here.</span> <span m="1502770">And</span>
+  <span m="1502860">this</span> <span m="1503010">is</span> <span m="1503130">possible</span>
+  <span m="1503640">because</span> <span m="1504660">the</span> <span m="1504750">electrons</span>
+  <span m="1505320">on</span> <span m="1505470">both</span> <span m="1505740">oxygens</span>
+  <span m="1507780">are</span> <span m="1507930">found</span> <span m="1508470">in</span>
+  <span m="1508980">orbitals</span> <span m="1509670">of</span> <span m="1510270">comparable</span>
+  <span m="1510810">energies.</span> <span m="1512010">By</span> <span m="1512220">contrast,</span>
+  <span m="1513000">in</span> <span m="1513090">the</span> <span m="1513180">case</span>
+  <span m="1513450">of</span> <span m="1513580">a</span> <span m="1513710">thioester,</span>
+  <span m="1517380">we</span> <span m="1517500">have</span> <span m="1517680">a</span>
+  <span m="1517740">sulfur.</span></p><p><span m="1518640">Now,</span> <span m="1519630">the</span>
+  <span m="1520530">electrons</span> <span m="1522900">on</span> <span m="1523050">the</span>
+  <span m="1523240">sulfur</span> <span m="1523690">are</span> <span m="1523835">in</span>
+  <span m="1523980">orbitals</span> <span m="1524750">that</span> <span m="1524920">are</span>
+  <span m="1525120">not</span> <span m="1526080">in</span> <span m="1526620">comparable</span>
+  <span m="1527160">energies</span> <span m="1527430">with</span> <span m="1528000">the</span>
+  <span m="1528120">ones</span> <span m="1528990">on</span> <span m="1529140">the</span>
+  <span m="1529350">ketyl</span> <span m="1529710">group</span> <span m="1530310">and</span>
+  <span m="1530400">therefore,</span> <span m="1531180">this</span> <span m="1531360">kind</span>
+  <span m="1531660">of</span> <span m="1532650">conjugation</span> <span m="1536460">does</span>
+  <span m="1536670">not,</span> <span m="1537090">in</span> <span m="1537240">fact,</span>
+  <span m="1539720">happen.</span> <span m="1541310">And</span> <span m="1541550">because</span>
+  <span m="1541880">this</span> <span m="1542060">doesn't</span> <span m="1542300">happen,</span>
+  <span m="1543080">therefore,</span> <span m="1543380">the</span> <span m="1543470">electrons</span>
+  <span m="1544040">on</span> <span m="1544190">the</span> <span m="1544340">carbonyl</span>
+  <span m="1545150">stay</span> <span m="1545510">localized,</span> <span m="1546460">and</span>
+  <span m="1546560">that</span> <span m="1546740">makes</span> <span m="1546950">the</span>
+  <span m="1547110">carbonyl</span> <span m="1547550">a</span> <span m="1547640">better</span>
+  <span m="1547970">reactive</span> <span m="1548450">site.</span> <span m="1549170">So</span>
+  <span m="1549320">it's</span> <span m="1550400">a</span> <span m="1550460">better</span>
+  <span m="1550810">electrophile</span> <span m="1551600">to</span> <span m="1551780">react</span>
+  <span m="1552120">as</span> <span m="1552280">nucleophiles</span> <span m="1552620">behaves</span>
+  <span m="1552950">more</span> <span m="1553250">like</span> <span m="1553460">a</span>
+  <span m="1553490">ketone.</span></p><p><span m="1555320">For</span> <span m="1555470">the</span>
+  <span m="1555560">same</span> <span m="1555800">reason,</span> <span m="1556820">when</span>
+  <span m="1557360">we</span> <span m="1557510">are</span> <span m="1557670">to</span>
+  <span m="1558110">deprotonate</span> <span m="1558380">the</span> <span m="1558680">alpha</span>
+  <span m="1558980">position</span> <span m="1560010">on</span> <span m="1560140">a</span>
+  <span m="1560210">thioester,</span> <span m="1562010">the</span> <span m="1562310">density</span>
+  <span m="1562910">on</span> <span m="1563060">the</span> <span m="1563180">carbonyl</span>
+  <span m="1563720">is</span> <span m="1563960">there</span> <span m="1564230">to</span>
+  <span m="1564350">stabilize</span> <span m="1565010">the</span> <span m="1565280">enolate</span>
+  <span m="1566000">much</span> <span m="1566330">more</span> <span m="1566630">so</span>
+  <span m="1567350">than</span> <span m="1567770">it</span> <span m="1567980">would</span>
+  <span m="1568130">be</span> <span m="1568370">for</span> <span m="1568580">an</span>
+  <span m="1568760">oxygen</span> <span m="1569240">ester.</span> <span m="1570560">Therefore,</span>
+  <span m="1571160">the</span> <span m="1571550">pKa,</span> <span m="1572460">the</span>
+  <span m="1572600">acidity</span> <span m="1573110">constant</span> <span m="1573590">for</span>
+  <span m="1574160">this</span> <span m="1574400">hydrogen</span> <span m="1574910">on</span>
+  <span m="1575030">the</span> <span m="1575120">thioesters</span> <span m="1576050">is</span>
+  <span m="1576170">close</span> <span m="1576410">to</span> <span m="1576530">18,</span>
+  <span m="1577400">which</span> <span m="1577640">is</span> <span m="1577880">smaller,</span>
+  <span m="1578730">therefore</span> <span m="1578960">more</span> <span m="1579140">acidic</span>
+  <span m="1579920">than</span> <span m="1580040">the</span> <span m="1580110">pKa</span>
+  <span m="1580700">of</span> <span m="1580910">the</span> <span m="1582110">alpha</span>
+  <span m="1582380">position</span> <span m="1582770">in</span> <span m="1582920">oxygen</span>
+  <span m="1583400">esters,</span> <span m="1583850">which</span> <span m="1584060">is</span>
+  <span m="1584570">22.</span></p><p><span m="1586350">This</span> <span m="1586520">sums</span>
+  <span m="1586850">up</span> <span m="1587540">Problem</span> <span m="1587840">2</span>
+  <span m="1588110">of</span> <span m="1588200">Problem</span> <span m="1588500">Set</span>
+  <span m="1588610">4.</span> <span m="1590210">I</span> <span m="1590360">hope</span>
+  <span m="1590620">you</span> <span m="1590720">now</span> <span m="1590930">have</span>
+  <span m="1591170">a</span> <span m="1591230">much</span> <span m="1591440">better</span>
+  <span m="1591650">feel</span> <span m="1592040">of</span> <span m="1592190">how</span>
+  <span m="1592280">we</span> <span m="1592430">can</span> <span m="1592610">use</span>
+  <span m="1593720">crystal</span> <span m="1594000">structured</span> <span m="1594410">data</span>
+  <span m="1595430">to</span> <span m="1595940">propose</span> <span m="1596850">a</span>
+  <span m="1596930">reasonable</span> <span m="1597860">mechanism</span> <span m="1599020">for</span>
+  <span m="1599270">enzyme</span> <span m="1599660">catalyzed</span> <span m="1600170">reactions.</span>
+  <span m="1601190">Keep</span> <span m="1601370">in</span> <span m="1601460">mind</span>
+  <span m="1601760">that</span> <span m="1601940">writing</span> <span m="1602270">mechanisms</span>
+  <span m="1602840">on</span> <span m="1602960">paper</span> <span m="1603440">is</span>
+  <span m="1603560">relatively</span> <span m="1604070">easy.</span> <span m="1604930">But</span>
+  <span m="1605120">to</span> <span m="1605810">truly</span> <span m="1606140">confirm</span>
+  <span m="1607190">that</span> <span m="1607550">that</span> <span m="1607700">mechanism</span>
+  <span m="1608420">is</span> <span m="1608600">taking</span> <span m="1608930">place</span>
+  <span m="1609740">in</span> <span m="1610040">real</span> <span m="1610280">life</span>
+  <span m="1611780">inside</span> <span m="1612140">the</span> <span m="1612230">cells,</span>
+  <span m="1613250">it</span> <span m="1613340">takes</span> <span m="1613670">a</span>
+  <span m="1613760">lot</span> <span m="1614150">more</span> <span m="1614810">experimental</span>
+  <span m="1615500">work</span> <span m="1616010">and</span> <span m="1616170">evidence.</span></p>
+type: course
+uid: 3be1900eaf5e56d3272f1dfbb4da2b7c
+
+---
+None
